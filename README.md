@@ -1,8 +1,8 @@
 # Tour of Heroes
 
-Based on the tutorial provided by Angular. Tutorial accessible through: https://angular.io/tutorial/tour-of-heroes. 
+Based on the Angular tutorail Tour of Heroes. Tutorial accessible through: https://angular.io/tutorial/tour-of-heroes.
 
 ## Running it locally:
-- Clone the repository
+- Clone the repository with `git clone https://github.com/SandorTeleki/tour_of_heroes.git`
 - Run `npm i` to install the needed dependencies
-- Run `npm start` to spin up your local instance. It should become available through the 4200 port.
+- Run `ng serve` to spin up your local instance. It should become available through the 4200 port.
