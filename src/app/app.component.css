@@ -1,7 +1,9 @@
 /* AppComponent's private CSS styles */
 h1 {
   margin-bottom: 0;
+  align-self: center;
 }
+
 nav a {
   padding: 1rem;
   text-decoration: none;
@@ -11,10 +13,12 @@ nav a {
   color: #3d3d3d;
   border-radius: 4px;
 }
+
 nav a:hover {
   color: white;
   background-color: #42545C;
 }
+
 nav a.active {
   background-color: black;
 }
