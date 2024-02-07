@@ -14,6 +14,8 @@ input {
   max-width: 600px;
   box-sizing: border-box;
   display: block;
+  border-radius: 5px;
+  border: 1px solid black;
 }
 
 input:focus {

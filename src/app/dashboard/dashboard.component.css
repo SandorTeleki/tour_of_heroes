@@ -8,6 +8,8 @@ h2 {
   padding: 0;
   margin: auto;
   max-width: 1000px;
+  border-radius: 5px;
+  border: 3px double #3f525c;
 
   /* flexbox */
   display: -webkit-box;
