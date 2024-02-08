@@ -4,6 +4,13 @@ h1 {
   align-self: center;
 }
 
+nav {
+  margin: 20px 0 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 nav a {
   padding: 1rem;
   text-decoration: none;
