@@ -21,6 +21,10 @@ nav a {
   border-radius: 4px;
 }
 
+a {
+  border: 1px solid black;
+}
+
 nav a:hover {
   color: white;
   background-color: #42545C;
