@@ -26,7 +26,7 @@ h2 {
 
 a {
   background-color: #3f525c;
-  border-radius: 2px;
+  border-radius: 5px;
   padding: 1rem;
   font-size: 1.2rem;
   text-decoration: none;
@@ -37,6 +37,7 @@ a {
   min-width: 70px;
   margin: .5rem auto;
   box-sizing: border-box;
+  border: 2px solid rgb(105, 94, 249);
 
   /* flexbox */
   order: 0;
