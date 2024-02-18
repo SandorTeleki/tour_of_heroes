@@ -19,7 +19,7 @@ button {
   border: 1px solid black;
 }
 button:hover {
-  background-color: #cfd8dc;
+  background-color: #435960;
 }
 button:disabled {
   background-color: #eee;
