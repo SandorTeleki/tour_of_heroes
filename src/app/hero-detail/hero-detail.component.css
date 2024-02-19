@@ -1,4 +1,7 @@
 /* HeroDetailComponent's private CSS styles */
+h2 {
+  text-decoration: underline;
+}
 label {
   color: #435960;
   font-weight: bold;
