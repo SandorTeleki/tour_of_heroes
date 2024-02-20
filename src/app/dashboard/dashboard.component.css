@@ -37,7 +37,7 @@ a {
   min-width: 70px;
   margin: .5rem auto;
   box-sizing: border-box;
-  border: 2px solid rgb(105, 94, 249);
+  border: 2px solid black;
 
   /* flexbox */
   order: 0;
