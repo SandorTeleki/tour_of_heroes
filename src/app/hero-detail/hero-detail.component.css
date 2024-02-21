@@ -6,6 +6,10 @@ label {
   color: #435960;
   font-weight: bold;
 }
+.span {
+  text-transform: uppercase;
+}
+
 input {
   font-size: 1em;
   padding: .5rem;
