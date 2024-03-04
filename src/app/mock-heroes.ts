@@ -21,5 +21,6 @@ export const HEROES: Hero[] = [
   { id: 29, name: 'A. Powers', superpower: 'Great parodies', age: 34},
   { id: 30, name: 'Water Person', superpower: 'Controls water', age: 40},
   { id: 31, name: 'Air Person', superpower: 'Controls wind', age: 40},
+  { id: 32, name: 'Eart Person', superpower: 'Controls earth', age: 40},
 
 ];
