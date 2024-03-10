@@ -23,32 +23,33 @@ input {
   box-sizing: border-box;
   display: block;
   border-radius: 5px;
-  border: 1px solid black;
+  border: 1px solid #c6c8ce; /* cornflower 300 */
+}
+
+input:hover {
+  border: 2px solid #9ca6f9; /* bluebery 500 */
 }
 
 input:focus {
-  outline: #336699 auto 1px;
+  /* outline: #336699 auto 1px; blueberry 300 */
+  border: 3px solid #5a6af5; /* blueberry 300 */
 }
 
 li {
   list-style-type: none;
 }
 .search-result li a {
-  border-bottom: 1px solid gray;
+  /* border-bottom: 1px solid gray;
   border-left: 1px solid gray;
-  border-right: 1px solid gray;
+  border-right: 1px solid gray; */
+  border-radius: 5px;
   display: inline-block;
   width: 100%;
   max-width: 600px;
   padding: .5rem;
   box-sizing: border-box;
   text-decoration: none;
-  color: black;
-}
-
-.search-result li a:hover {
-  background-color: #435A60;
-  color: white;
+  margin-top: 5px;
 }
 
 ul.search-result {

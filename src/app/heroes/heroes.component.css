@@ -7,11 +7,22 @@
 }
 
 input {
+  border-radius: 5px;
   display: block;
   width: 100%;
   padding: .5rem;
   margin: 1rem 0;
   box-sizing: border-box;
+  border: 1px solid #c6c8ce; /* cornflower 300 */
+}
+
+input:hover {
+  border: 2px solid #9ca6f9; /* bluebery 500 */
+}
+
+input:focus {
+  /* outline: #336699 auto 1px; blueberry 300 */
+  border: 3px solid #5a6af5; /* blueberry 300 */
 }
 
 .heroes li {
@@ -24,9 +35,7 @@ input {
 }
 
 .heroes a {
-  color: #333;
   text-decoration: none;
-  background-color: #EEE;
   margin: .5em;
   padding: .3em 0;
   height: 1.6em;
@@ -35,22 +44,10 @@ input {
   width: 100%;
 }
 
-.heroes a:hover {
-  color: #2c3a41;
-  background-color: #e6e6e6;
-}
-
-.heroes a:active {
-  background-color: #525252;
-  color: #fafafa;
-}
-
 .heroes .badge {
   display: inline-block;
   font-size: small;
-  color: white;
   padding: 0.8em 0.7em 0 0.7em;
-  background-color: #405061;
   line-height: 1em;
   position: relative;
   left: -1px;
@@ -68,23 +65,11 @@ input {
  margin-bottom: 2rem;
 }
 
-.add-button:hover {
-  color: white;
-  background-color: #42545C;
-}
-
 button.delete {
   position: absolute;
   left: 210px;
-  top: 5px;
-  background-color: white;
-  color:  #525252;
+  top: 6px;
   font-size: 1.1rem;
   margin: 0;
-  padding: 1px 10px 3px 10px;
-}
-
-button.delete:hover {
-  background-color: #525252;
-  color: white;
+  padding: 0 10px 0 10px;
 }

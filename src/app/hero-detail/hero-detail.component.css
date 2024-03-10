@@ -2,10 +2,12 @@
 h2 {
   text-decoration: underline;
 }
+
 label {
-  color: #435960;
+  color: #000;
   font-weight: bold;
 }
+
 .span {
   text-transform: uppercase;
 }
@@ -14,25 +16,26 @@ input {
   font-size: 1em;
   padding: .5rem;
   border-radius: 5px;
-  border: 1px solid black;
+  border: 1px solid #c6c8ce; /* cornflower 300 */
 }
+
+input:hover {
+  border: 2px solid #9ca6f9; /* bluebery 500 */
+}
+
+input:focus {
+  /* outline: #336699 auto 1px; blueberry 300 */
+  border: 3px solid #5a6af5; /* blueberry 300 */
+}
+
 button {
   margin-top: 20px;
   margin-right: .5rem;
-  background-color: #eee;
   padding: .5rem;
   border-radius: 5px;
   font-size: 1rem;
-  border: 1px solid black;
 }
-button:hover {
-  background-color: #435960;
-}
-button:disabled {
-  background-color: #eee;
-  color: #ccc;
-  cursor: auto;
-}
+
 
 .stat {
   margin: 10px 0 10px;

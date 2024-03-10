@@ -3,35 +3,25 @@ div {
   display: flex;
   flex-direction: column;
   align-self: center;
+  background-color: #e8ebf7; /* lavanderhaze 300 */
 }
 
-h2 {
-  color: #A80000;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: lighter;
+h3 {
   align-self: center;
   margin: 0 0 10px;
 }
 
 .message-container {
-  border: 1px dashed black;
+  /* border: 1px dashed black; */
   border-radius: 5px;
   padding: 20px;
 }
 
 .clear {
-  color: #333;
-  background-color: #eee;
   margin: 10px 0 20px;
   padding: 1rem;
-  border-radius: 4px;
+  border-radius: 5px;
   font-size: 1rem;
-  border: 1px solid black;
   max-width: 300px;
   align-self: center;
-}
-
-.clear:hover {
-  color: #fff;
-  background-color: #42545C;
 }
