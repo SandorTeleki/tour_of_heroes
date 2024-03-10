@@ -3,7 +3,7 @@
 Based on the Angular tutorial Tour of Heroes. Tutorial accessible through: https://angular.io/tutorial/tour-of-heroes.
 
 ## Demo:
-Demo available through this link: https://sandorteleki.github.io/tour_of_heroes/dashboard
+(Currently unavailable)
 
 ## Ideas for improvement:
 - Add stats to each hero
