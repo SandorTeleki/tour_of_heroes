@@ -1,6 +1,7 @@
 # Tour of Heroes
 
 Based on the Angular tutorial Tour of Heroes. Tutorial accessible through: https://angular.io/tutorial/tour-of-heroes.
+Changed styling to match Spark Flare 4.0: https://spark.genesys.com/latest/spark-flare-4-0-N9duape8.
 
 ## Demo:
 Demo available through the following link (hosted through GitHub Pages): https://sandorteleki.github.io/tour_of_heroes/
