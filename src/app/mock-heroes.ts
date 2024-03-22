@@ -33,5 +33,6 @@ export const HEROES: Hero[] = [
   // { id: 41, name: 'Copyright Infringement', superpower: 'Creates copyright infringements', age: 50},
   // { id: 42, name: 'Legal Distinction', superpower: 'Able to make anything legally distinct', age: 23},
   // { id: 43, name: 'McDojo Ultrabelt', superpower: 'The peak of McDojo fake martial arts', age: 23},
+  // { id: 44, name: 'Preacher', superpower: 'Like Reacher, but for Preaching', age: 61},
 
 ];
