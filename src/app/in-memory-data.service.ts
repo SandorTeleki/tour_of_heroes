@@ -44,6 +44,8 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 45, name: 'Teacher', superpower: 'Like Reacher, but for Teaching', age: 54},
       // { id: 46, name: 'Sleeper', superpower: 'Like Reacher, but for Sleeping', age: 44},
       // { id: 47, name: 'Bencher', superpower: 'Like Reacher, but for warming the bench', age: 22},
+      // { id: 48, name: 'Bee Keeper', superpower: 'Like Reacher, but for keeping bees', age: 30},
+
     ];
     return {heroes};
   }
