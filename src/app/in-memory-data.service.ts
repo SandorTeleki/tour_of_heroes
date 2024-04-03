@@ -50,6 +50,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 51, name: 'Creature', superpower: 'Can turn into any creature', age: 59},
       // { id: 52, name: 'Fixture', superpower: 'Fixed in places', age: 44},
       // { id: 53, name: 'Speaker', superpower: 'Like Reacher, but for speeches', age: 32},
+      // { id: 54, name: 'Deeper', superpower: 'Like Reacher, but for reaching the deepest parts', age: 111},
 
     ];
     return {heroes};
