@@ -63,5 +63,6 @@ export const HEROES: Hero[] = [
   // { id: 71, name: 'Washer', superpower: 'Like Reacher, but washing anything and everything', age: 31},
   // { id: 72, name: 'Forker', superpower: 'Like Reacher, but for forking pieces in chess', age: 49},
   // { id: 73, name: 'Farmer', superpower: 'Like Reacher, but for farming', age: 56},
+  // { id: 74, name: 'Rancher', superpower: 'Like Reacher, but for doing things around the ranch', age: 61},
 
 ];
