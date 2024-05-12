@@ -81,14 +81,15 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 82, name: 'Tanker', superpower: 'For your dealing with fuel logistics', age: 42},
       // { id: 83, name: 'Slanderer', superpower: 'For slandering supervillains', age: 24},
       // { id: 84, name: 'Panderer', superpower: 'For pandering to everyone', age: 50},
-      // { id: 85, name: 'Flounderer', superpower: 'For floudering any task ', age: 8},
-      // { id: 86, name: 'Stinker', superpower: 'For stinking up the place ', age: 3},
-      // { id: 87, name: 'Tester', superpower: 'For testing things ', age: 30},
-      // { id: 88, name: 'Jester', superpower: 'For jesting ', age: 48},
-      // { id: 89, name: 'Power Shufler', superpower: 'For shufling super powers around ', age: 28},
-      // { id: 90, name: 'Masher', superpower: 'For mashing villians up ', age: 29},
+      // { id: 85, name: 'Flounderer', superpower: 'For floudering any task', age: 8},
+      // { id: 86, name: 'Stinker', superpower: 'For stinking up the place', age: 3},
+      // { id: 87, name: 'Tester', superpower: 'For testing things', age: 30},
+      // { id: 88, name: 'Jester', superpower: 'For jesting', age: 48},
+      // { id: 89, name: 'Power Shufler', superpower: 'For shufling super powers around', age: 28},
+      // { id: 90, name: 'Masher', superpower: 'For mashing villians up', age: 29},
       // { id: 91, name: 'Trasher', superpower: 'For trashing villian hideouts ', age: 34},
       // { id: 92, name: 'Dasher', superpower: 'For dashing around with your deliveries ', age: 28},
+      // { id: 93, name: 'Cutlery Slasher', superpower: 'For slashing, but only cutlery', age: 41},
 
     ];
     return {heroes};
