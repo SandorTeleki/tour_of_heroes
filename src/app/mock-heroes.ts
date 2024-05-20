@@ -89,5 +89,6 @@ export const HEROES: Hero[] = [
   // { id: 97, name: 'Dismisser', superpower: 'For dismissing any and all claims', age: 72},
   // { id: 98, name: 'Coder', superpower: 'Like programmer, but for coding', age: 51},
   // { id: 99, name: 'Tro the Transponder', superpower: 'For passing on information', age: 49},
+  // { id: 100, name: 'The Hundredth Centi-meter', superpower: 'For becoming the hundredth superhero', age: 100},
 
 ];
