@@ -100,6 +100,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 101, name: 'Dalmatian Pupeteer', superpower: 'Can control dalmatians - up to 101 of them at once', age: 101},
       // { id: 102, name: 'Randomer', superpower: 'Gains and loses a random superpower every hour', age: 38},
       // { id: 103, name: 'Forester', superpower: 'Like Reacher, but for taking care of forests', age: 26},
+      // { id: 104, name: 'Misser', superpower: 'Like Reacher, but misses all the shots that he doesn't take', age: 45},
 
     ];
     return {heroes};
