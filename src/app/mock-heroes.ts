@@ -97,5 +97,6 @@ export const HEROES: Hero[] = [
   // { id: 105, name: 'Redacted-er', superpower: 'Like Reacher, but superpower is redacted for redacted reasons', age: 000},
   // { id: 106, name: 'Breakfaster', superpower: 'Like Reacher, but controls all aspects of a breakfast', age: 31},
   // { id: 107, name: 'Luncher', superpower: 'Like Reacher, but sends you lunch wherever you are', age: 64},
+  // { id: 108, name: 'Diner', superpower: 'Like Reacher, but creates diners in locations he spends more than 24 hours', age: 53},
 
 ];
