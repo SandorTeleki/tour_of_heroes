@@ -104,5 +104,6 @@ export const HEROES: Hero[] = [
   // { id: 112, name: 'Transferer', superpower: 'Transfers anything between himself and any other individual', age: 36},
   // { id: 113, name: 'Average Enjoyer', superpower: 'Makes everyone inside a 10m radius enjoy average things', age: 59},
   // { id: 114, name: 'Anime Personified', superpower: 'All the anime tropes personified', age: 1001},
+  // { id: 115, name: 'Comic Tans', superpower: 'Funniest font comic', age: 48},
 
 ];
