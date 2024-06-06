@@ -113,6 +113,8 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 114, name: 'Anime Personified', superpower: 'All the anime tropes personified', age: 1001},
       // { id: 115, name: 'Comic Tans', superpower: 'Funniest font comic', age: 48},
       // { id: 116, name: 'Cat Tamer', superpower: 'Tames the felines', age: 23},
+      // { id: 117, name: 'Canine Whisperer', superpower: 'Legally disctinct, but still trains dogs', age: 51},
+
       // Canine whisperer
 
     ];
