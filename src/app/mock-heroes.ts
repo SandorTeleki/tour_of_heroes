@@ -110,5 +110,6 @@ export const HEROES: Hero[] = [
   // { id: 118, name: 'Feline Talker', superpower: 'Legally disctinct, but still trains cats', age: 69},
   // { id: 119, name: 'Joey Walker', superpower: 'Legally disctinct, but supposedly makes great whiskey', age: 27},
   // { id: 120, name: 'Torris Walker', superpower: 'Legally disctinct, Texas ranger', age: 38},
+  // { id: 121, name: 'Iron Trainer', superpower: 'Trains other using iron tools', age: 38},
 
 ];
