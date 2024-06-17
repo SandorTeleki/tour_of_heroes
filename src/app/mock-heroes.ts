@@ -117,5 +117,6 @@ export const HEROES: Hero[] = [
   // { id: 125, name: 'Quixote Quintuplets', superpower: 'Quintuplets that can morf into Don Quixote', age: 48},
   // { id: 126, name: 'Dollar Hussler', superpower: 'Can make money on any odd job', age: 32},
   // { id: 127, name: 'Yen Enjoyer', superpower: 'Influences the Japanese economy', age: 68},
+  // { id: 128, name: 'Eurocrat', superpower: 'Bureaucrat par excellence', age: 41},
 
 ];
