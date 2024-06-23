@@ -130,6 +130,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 131, name: 'Gravitator', superpower: 'Controls gravity around themselves', age: 40},
       // { id: 132, name: 'Tower Defender', superpower: 'Turns reality into a tower defense game', age: 24},
       // { id: 133, name: 'Castle Builder', superpower: 'Turns fortifications into Gothic castles', age: 67},
+      // { id: 134, name: 'Speedy Reader', superpower: 'Fastest reader on planet Earth, but can only read e-books', age: 87},
 
     ];
     return {heroes};
