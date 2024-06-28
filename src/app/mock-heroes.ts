@@ -128,5 +128,6 @@ export const HEROES: Hero[] = [
   // { id: 136, name: 'MeTouber', superpower: 'Best YT content creator', age: 20},
   // { id: 137, name: 'Shuder Streamer', superpower: 'Best streamer', age: 19},
   // { id: 138, name: 'Stock Stocker', superpower: 'Can stock anything for any shop', age: 37},
-//stack
+  // { id: 139, name: 'Stacker Hacker', superpower: 'Best hacker in the world', age: 35},
+
 ];
