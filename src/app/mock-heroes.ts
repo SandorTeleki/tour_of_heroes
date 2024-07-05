@@ -135,5 +135,6 @@ export const HEROES: Hero[] = [
   // { id: 143, name: 'Space Expander', superpower: 'Can create more space out of less', age: 58},
   // { id: 144, name: 'Moe the Mover', superpower: 'Can move anything from point A to point B', age: 67},
   // { id: 145, name: 'Harold the Healer', superpower: 'Can heal anyone', age: 36},
+  // { id: 146, name: 'Bone Mender', superpower: 'Can heal any broken bone', age: 28},
 
 ];
