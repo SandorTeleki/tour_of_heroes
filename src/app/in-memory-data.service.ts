@@ -144,6 +144,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 145, name: 'Harold the Healer', superpower: 'Can heal anyone', age: 36},
       // { id: 146, name: 'Bone Mender', superpower: 'Can heal any broken bone', age: 28},
       // { id: 147, name: 'Tendon Flexdon', superpower: 'Flexes any tendon to make it stronger', age: 41},
+      // { id: 148, name: 'Meal Prepper', superpower: 'Can prep any meal out of nothing', age: 44},
 
     ];
     return {heroes};
