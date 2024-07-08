@@ -138,5 +138,6 @@ export const HEROES: Hero[] = [
   // { id: 146, name: 'Bone Mender', superpower: 'Can heal any broken bone', age: 28},
   // { id: 147, name: 'Tendon Flexdon', superpower: 'Flexes any tendon to make it stronger', age: 41},
   // { id: 148, name: 'Meal Prepper', superpower: 'Can prep any meal out of nothing', age: 44},
+  // { id: 149, name: 'Grandmaster', superpower: 'Can become a grandmaster in any sport', age: 73},
 
 ];
