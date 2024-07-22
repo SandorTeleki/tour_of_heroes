@@ -152,5 +152,6 @@ export const HEROES: Hero[] = [
   // { id: 160, name: 'Choo Chew Chee', superpower: 'The living train', age: 51},
   // { id: 161, name: 'Review Rewind', superpower: 'Can rewind the last 5 seconds', age: 97},
   // { id: 162, name: 'Replay Rewinder', superpower: 'Can replay any game they participated in', age: 35},
+  // { id: 163, name: 'Diplomancer', superpower: 'Can "diplo" anyone', age: 59},
 
 ];
