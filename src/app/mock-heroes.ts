@@ -156,4 +156,5 @@ export const HEROES: Hero[] = [
   // { id: 164, name: 'Living Calculatron', superpower: 'Can calculate anything', age: 48},
   // { id: 165, name: 'Pod the Caster', superpower: 'Can turn anything into a podcast', age: 29},
   // { id: 166, name: 'T. D. Wut', superpower: 'Can confuse anyone', age: 37},
+  // { id: 167, name: 'Waaaaa Zuuuuup', superpower: 'Side tracks anyone', age: 15},
 ];
