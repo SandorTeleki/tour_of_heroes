@@ -165,5 +165,5 @@ export const HEROES: Hero[] = [
   // { id: 173, name: 'Pointy Ears', superpower: 'Allegedly not an elf, but has great hearing', age: 719},
   // { id: 174, name: 'Birb Individual', superpower: 'Half bird, half human, all flight', age: 13},
   // { id: 175, name: 'Bulb The Light', superpower: 'Always the brightest person in the room', age: 68},
-
+  // { id: 176, name: 'Beer Chugger', superpower: 'Can drink an endless amount of beer', age: 55},
 ];
