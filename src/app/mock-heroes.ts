@@ -168,4 +168,6 @@ export const HEROES: Hero[] = [
   // { id: 176, name: 'Beer Chugger', superpower: 'Can drink an endless amount of beer', age: 55},
   // { id: 177, name: 'Beet Ruth', superpower: 'Sweetest person in the world', age: 48},
   // { id: 178, name: 'Berry Larry', superpower: 'Controls everything related to berries', age: 61},
+  // { id: 179, name: 'Pine Lime', superpower: 'Neither a lime, nor a pine, still stubline', age: 74},
+
 ];
