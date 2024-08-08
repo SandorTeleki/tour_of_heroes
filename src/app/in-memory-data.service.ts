@@ -176,6 +176,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 177, name: 'Beet Ruth', superpower: 'Sweetest person in the world', age: 48},
       // { id: 178, name: 'Berry Larry', superpower: 'Controls everything related to berries', age: 61},
       // { id: 179, name: 'Pine Lime', superpower: 'Neither a lime, nor a pine, still stubline', age: 74},
+      // { id: 180, name: 'Seller Weller', superpower: 'Can sell anything', age: 36},
 
     ];
     return {heroes};
