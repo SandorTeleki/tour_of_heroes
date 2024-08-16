@@ -176,5 +176,7 @@ export const HEROES: Hero[] = [
   // { id: 184, name: 'Add Ict', superpower: 'Can make anyone addicted to something', age: 87},
   // { id: 185, name: 'Ickinator', superpower: 'Can create an ick in anyone', age: 11},
   // { id: 186, name: 'Inso inducer', superpower: 'Induces insomania in others', age: 32},
+  // { id: 187, name: 'Cre A. Tive inducer', superpower: 'Limitless creativity', age: 14},
+
 ];
 
