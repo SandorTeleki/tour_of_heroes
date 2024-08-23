@@ -190,6 +190,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 191, name: 'Alert Eyes', superpower: 'Tracks all alerts', age: 32},
       // { id: 192, name: 'Clean Coder', superpower: 'Cleans up any code', age: 50},
       // { id: 193, name: 'Alerter', superpower: 'Catches any alert before it alerts', age: 69},
+      // { id: 194, name: 'Empt-ey', superpower: 'Creates emptiness', age: 58},
 
     ];
     return {heroes};
