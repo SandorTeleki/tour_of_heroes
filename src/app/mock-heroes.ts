@@ -188,6 +188,7 @@ export const HEROES: Hero[] = [
   // { id: 196, name: 'Tale Spinner', superpower: 'Can create a fantastical tale out of any mundane story fullness', age: 83},
   // { id: 197, name: 'Gainer', superpower: 'Can help anyone achieve "gainz"', age: 46},
   // { id: 198, name: 'Strainer', superpower: 'Can strain anyone', age: 30},
+  // { id: 199, name: 'R.O.T. Spinner', superpower: 'TUrns everything into its opposite', age: 55},
 
 
 ];
