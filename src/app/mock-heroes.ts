@@ -191,6 +191,7 @@ export const HEROES: Hero[] = [
   // { id: 199, name: 'R.O.T. Spinner', superpower: 'Turns everything into its opposite', age: 55},
   // { id: 200, name: 'Logger', superpower: 'Logs everything', age: 39},
   // { id: 201, name: 'TrackeRrr', superpower: 'Undefeatable as long as they are near a track', age: 61},
+  // { id: 202, name: 'Swan Swimmer', superpower: 'Swims as gracefully as a swan', age: 46},
 
 
 ];
