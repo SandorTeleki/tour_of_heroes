@@ -192,6 +192,7 @@ export const HEROES: Hero[] = [
   // { id: 200, name: 'Logger', superpower: 'Logs everything', age: 39},
   // { id: 201, name: 'TrackeRrr', superpower: 'Undefeatable as long as they are near a track', age: 61},
   // { id: 202, name: 'Swan Swimmer', superpower: 'Swims as gracefully as a swan', age: 46},
+  // { id: 203, name: 'Tray Baker', superpower: 'Can bake anything', age: 27},
 
 
 ];
