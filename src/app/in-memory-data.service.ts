@@ -201,6 +201,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 202, name: 'Swan Swimmer', superpower: 'Swims as gracefully as a swan', age: 46},
       // { id: 203, name: 'Tray Baker', superpower: 'Can bake anything', age: 27},
       // { id: 204, name: 'Death Strander', superpower: 'Strands death', age: 99},
+      // { id: 205, name: 'Life Reader', superpower: 'Can tell the future', age: 86},
 
     ];
     return {heroes};
