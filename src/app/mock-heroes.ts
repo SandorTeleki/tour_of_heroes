@@ -199,6 +199,7 @@ export const HEROES: Hero[] = [
   // { id: 207, name: 'Vic Tor', superpower: 'Always wins', age: 31},
   // { id: 208, name: 'Buran', superpower: 'Controls extreme cold weather', age: 70},
   // { id: 209, name: 'Bright Scorch', superpower: 'Controls extreme hot weather', age: 70},
+  // { id: 210, name: 'Whisk the Key', superpower: 'Creates the best hard liquor', age: 54},
 
 ];
 
