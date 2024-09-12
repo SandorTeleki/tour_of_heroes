@@ -202,6 +202,7 @@ export const HEROES: Hero[] = [
   // { id: 210, name: 'Whisk the Key', superpower: 'Creates the best hard liquor', age: 54},
   // { id: 211, name: 'Be E. R.', superpower: 'Can turn any liquid into the best beer', age: 38},
   // { id: 212, name: 'See Take', superpower: 'Can turn any meat into the great steak', age: 31},
+  // { id: 213, name: 'Beenz Galore', superpower: 'Makes it so everyone ate a lot of beans', age: 19},
 
 ];
 
