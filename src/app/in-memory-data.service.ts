@@ -212,6 +212,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 213, name: 'Beenz Galore', superpower: 'Makes it so everyone ate a lot of beans', age: 19},
       // { id: 214, name: 'Scale Tale', superpower: 'Can temporarily turn peoples skin into dragon scale', age: 101},
       // { id: 215, name: 'Tea Tith', superpower: 'Can turn any liquid into tea', age: 54},
+      // { id: 216, name: 'Lee Mon Ade', superpower: 'Can turn any liquid into lemonade', age: 51},
 
     ];
     return {heroes};
