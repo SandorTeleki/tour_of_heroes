@@ -208,6 +208,7 @@ export const HEROES: Hero[] = [
   // { id: 216, name: 'Lee Mon Ade', superpower: 'Can turn any liquid into lemonade', age: 51},
   // { id: 217, name: 'Vino Snob', superpower: 'Defeats everyone with their wine snobery', age: 43},
   // { id: 218, name: 'Chocolate Snail', superpower: 'A living contradiction', age: 2},
+  // { id: 219, name: 'Amp Lamp', superpower: 'A source of light in dark times', age: 24},
 
 ];
 
