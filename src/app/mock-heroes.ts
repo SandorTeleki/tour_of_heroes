@@ -212,6 +212,7 @@ export const HEROES: Hero[] = [
   // { id: 220, name: 'Mughead', superpower: 'Legally distinct beverage holder head', age: 13},
   // { id: 221, name: 'Decanterhead', superpower: 'Older sibling of Mughead', age: 15},
   // { id: 222, name: 'Jarrrhead', superpower: 'Quintessential soldier', age: 19},
+  // { id: 223, name: 'HeadHead', superpower: 'Twice the head, twice the wisdom', age: 88},
 
 ];
 
