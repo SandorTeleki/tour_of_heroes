@@ -220,6 +220,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 221, name: 'Decanterhead', superpower: 'Older sibling of Mughead', age: 15},
       // { id: 222, name: 'Jarrrhead', superpower: 'Quintessential soldier', age: 19},
       // { id: 223, name: 'HeadHead', superpower: 'Twice the head, twice the wisdom', age: 88},
+      // { id: 224, name: 'Feet Foot Fleet', superpower: 'More feet than anyone else', age: 32},
 
     ];
     return {heroes};
