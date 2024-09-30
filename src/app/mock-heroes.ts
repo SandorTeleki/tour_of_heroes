@@ -219,6 +219,7 @@ export const HEROES: Hero[] = [
   // { id: 227, name: 'Ham Sam', superpower: 'Turns any meat into ham', age: 73},
   // { id: 228, name: 'Swol Towel', superpower: 'Strongest towel out there', age: 33},
   // { id: 229, name: 'Teeth Paste', superpower: 'Cleans all your teeth and not just your tooth', age: 41},
+  // { id: 230, name: 'Diamond Nailz', superpower: 'Nicest and toughest nails out there', age: 24},
 
 ];
 
