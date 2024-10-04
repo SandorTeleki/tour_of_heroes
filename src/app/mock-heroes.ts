@@ -223,6 +223,7 @@ export const HEROES: Hero[] = [
   // { id: 231, name: 'Quintcep', superpower: 'Got muscles on top of muscles', age: 18},
   // { id: 232, name: 'T-Raptor', superpower: 'T-Rex sized raptor like hero', age: 63},
   // { id: 233, name: 'Duck Sock', superpower: 'Duck with socks', age: 4},
+  // { id: 234, name: 'Fish Dish Mish', superpower: 'Off-brand aqua-person', age: 32},
 
 ];
 
