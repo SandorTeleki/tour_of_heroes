@@ -230,6 +230,7 @@ export const HEROES: Hero[] = [
   // { id: 238, name: 'Vaca Sine', superpower: 'Cow that creates antidotes', age: 5},
   // { id: 239, name: 'Cat Claw', superpower: 'Sharpest claws out there', age: 4},
   // { id: 240, name: 'Paper Sword', superpower: 'Mightiest sword wielder', age: 20},
+  // { id: 241, name: 'Glass Armor', superpower: 'Strongest plot armor out there', age: 63},
 
 ];
 
