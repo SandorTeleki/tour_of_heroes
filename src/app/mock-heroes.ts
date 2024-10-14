@@ -233,6 +233,7 @@ export const HEROES: Hero[] = [
   // { id: 241, name: 'Glass Armor', superpower: 'Strongest plot armor out there', age: 63},
   // { id: 242, name: 'Whole Puncher', superpower: 'Can punch something until its whole again', age: 58},
   // { id: 243, name: 'Hole Drawer', superpower: 'Can draw holes into anyone', age: 58},
+  // { id: 244, name: 'Pencil Pusher', superpower: 'Like a paper pusher, but the opposite of bureaucractic', age: 44},
 
 ];
 
