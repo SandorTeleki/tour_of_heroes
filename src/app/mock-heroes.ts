@@ -239,6 +239,7 @@ export const HEROES: Hero[] = [
   // { id: 247, name: 'Censored Censored', superpower: 'Can censore anything', age: 89},
   // { id: 248, name: 'Bard Beard', superpower: 'The beard IS the bard', age: 66},
   // { id: 249, name: 'Fidi Media', superpower: 'Can control the media', age: 37},
+  // { id: 250, name: 'Puns of Damage', superpower: 'Deals more damage than you can imagine', age: 68},
 
 ];
 
