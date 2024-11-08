@@ -258,6 +258,7 @@ export const HEROES: Hero[] = [
   // { id: 266, name: 'Zzz Sleepy', superpower: 'Can make anyone sleepy', age: 25},
   // { id: 267, name: 'Smart D-Bell', superpower: 'The smartest strongman', age: 37},
   // { id: 268, name: 'Impossible Dice', superpower: 'Gets impossible dice results', age: 7},
+  // { id: 269, name: '200+Nice', superpower: 'The power of Nice!', age: 69},
 
 ];
 
