@@ -262,6 +262,7 @@ export const HEROES: Hero[] = [
   // { id: 270, name: 'Remember Knot', superpower: 'No one remembers them', age: 38},
   // { id: 271, name: 'K. Not', superpower: 'Can bind anyone', age: 71},
   // { id: 272, name: 'Ham E.R.', superpower: 'Punches that hit like pneumatic hammer strikes', age: 23},
+  // { id: 273, name: 'Ctrl Ed Chaos.', superpower: 'Temporarily controls chaos', age: 56},
 
 ];
 
