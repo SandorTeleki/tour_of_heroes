@@ -263,6 +263,7 @@ export const HEROES: Hero[] = [
   // { id: 271, name: 'K. Not', superpower: 'Can bind anyone', age: 71},
   // { id: 272, name: 'Ham E.R.', superpower: 'Punches that hit like pneumatic hammer strikes', age: 23},
   // { id: 273, name: 'Ctrl Ed Chaos.', superpower: 'Temporarily controls chaos', age: 56},
+  // { id: 274, name: 'PigBearMan.', superpower: 'Like manbearpig, but a quarter pig, a quarter bear and a quarter man', age: 44},
 
 ];
 
