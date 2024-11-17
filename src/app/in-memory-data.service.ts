@@ -275,6 +275,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 276, name: 'McBoat Face', superpower: 'Can control any floating object', age: 51},
       // { id: 277, name: 'Ferb Orb', superpower: 'Controls all orbs', age: 93},
       // { id: 278, name: 'Empty', superpower: 'Power of emptiness', age: 23},
+      // { id: 279, name: 'Exercise Exorcist', superpower: 'Exorcism through the power of exercise', age: 58},
 
 
     ];
