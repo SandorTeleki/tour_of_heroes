@@ -268,6 +268,7 @@ export const HEROES: Hero[] = [
   // { id: 277, name: 'Ferb Orb', superpower: 'Controls all orbs', age: 93},
   // { id: 278, name: 'Empty', superpower: 'Power of emptiness', age: 23},
   // { id: 279, name: 'Exercise Exorcist', superpower: 'Exorcism through the power of exercise', age: 58},
+  // { id: 280, name: 'If Rit', superpower: 'Controls a demonic fire', age: 70},
 
 ];
 
