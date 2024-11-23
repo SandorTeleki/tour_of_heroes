@@ -272,6 +272,7 @@ export const HEROES: Hero[] = [
   // { id: 281, name: 'Craw Caw', superpower: 'Communes with crows', age: 42},
   // { id: 282, name: 'Renter', superpower: 'Can rent anything within a budget', age: 30},
   // { id: 283, name: 'Derma Logist', superpower: 'Dermatalogist with a demonology minor', age: 28},
+  // { id: 284, name: 'Little Colonel', superpower: 'Best artillery general', age: 43},
 
 ];
 
