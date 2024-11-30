@@ -279,6 +279,7 @@ export const HEROES: Hero[] = [
   // { id: 288, name: 'Six Gum', superpower: 'Stretchy, edgy but flaky', age: 13},
   // { id: 289, name: 'Yellow Snow', superpower: 'Most misunderstood hero', age: 43},
   // { id: 290, name: 'Brown Stein', superpower: 'Second most misunderstood hero', age: 53},
+  // { id: 291, name: 'Soaker', superpower: 'Protector of hot springs', age: 51},
 
 ];
 
