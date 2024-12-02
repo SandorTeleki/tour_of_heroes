@@ -281,6 +281,7 @@ export const HEROES: Hero[] = [
   // { id: 290, name: 'Brown Stein', superpower: 'Second most misunderstood hero', age: 53},
   // { id: 291, name: 'Soaker', superpower: 'Protector of hot springs', age: 51},
   // { id: 292, name: 'Boom Hair', superpower: 'Explosive hair folicles', age: 19},
+  // { id: 293, name: 'Pain Gain', superpower: 'Gets stronger through pain', age: 24},
 
 ];
 
