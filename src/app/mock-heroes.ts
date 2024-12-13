@@ -292,6 +292,7 @@ export const HEROES: Hero[] = [
   // { id: 301, name: 'End Naught', superpower: 'Endless', age: 38},
   // { id: 302, name: 'Bangs', superpower: 'Got the best bangs', age: 27},
   // { id: 303, name: '20th Belt', superpower: 'Master of the McDojo master', age: 89},
+  // { id: 304, name: '304', superpower: 'If you know you know', age: 22},
 
 ];
 
