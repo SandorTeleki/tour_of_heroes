@@ -304,6 +304,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 305, name: 'Anti Bul-Ley', superpower: 'Grows more powerful when fighting bullies', age: 14},
       // { id: 306, name: 'Craven Lord', superpower: 'Turns his enemies into cowards', age: 19},
       // { id: 307, name: 'Nailz', superpower: 'Tough as plastic nails', age: 16},
+      // { id: 308, name: 'Cat o' 10 tailz', superpower: 'Dishes out punishment to everyone', age: 29},
 
 
     ];
