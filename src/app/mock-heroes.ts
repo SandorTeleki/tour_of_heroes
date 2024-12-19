@@ -299,6 +299,7 @@ export const HEROES: Hero[] = [
   // { id: 308, name: 'Cat o' 10 tailz', superpower: 'Dishes out punishment to everyone', age: 29},
   // { id: 309, name: 'Waga Waga', superpower: 'The one true orkz', age: 43},
   // { id: 310, name: 'Paper Anchor', superpower: 'Immovable object...', age: 32},
+  // { id: 311, name: 'MagiPunk', superpower: 'Punk with magic', age: 56},
 
 ];
 
