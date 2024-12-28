@@ -315,6 +315,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 316, name: 'Red One', superpower: 'Brings Xmas cheer to everyone', age: 48},
       // { id: 317, name: 'Green Fingers', superpower: 'Can grow anything', age: 57},
       // { id: 318, name: 'Chaosling', superpower: 'Spreads chaos to enemies', age: 36},
+      // { id: 319, name: 'Dev VVeb', superpower: 'Makes the best web pages', age: 31},
 
 
     ];
