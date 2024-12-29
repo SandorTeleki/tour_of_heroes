@@ -308,6 +308,7 @@ export const HEROES: Hero[] = [
   // { id: 317, name: 'Green Fingers', superpower: 'Can grow anything', age: 57},
   // { id: 318, name: 'Chaosling', superpower: 'Spreads chaos to enemies', age: 36},
   // { id: 319, name: 'Dev VVeb', superpower: 'Makes the best web pages', age: 31},
+  // { id: 320, name: 'Kitsch Lich', superpower: 'Brings back kitsch undead', age: 999},
 
 ];
 
