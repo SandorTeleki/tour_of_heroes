@@ -319,6 +319,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 320, name: 'Kitsch Lich', superpower: 'Brings back kitsch undead', age: 999},
       // { id: 321, name: 'Last First', superpower: 'First at being last', age: 13},
       // { id: 322, name: 'Coughinator', superpower: 'Can make anyone cough', age: 61},
+      // { id: 323, name: 'Lost & Found', superpower: 'Finds what has been lost', age: 24},
 
 
     ];
