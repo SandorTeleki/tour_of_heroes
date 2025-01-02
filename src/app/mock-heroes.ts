@@ -312,6 +312,7 @@ export const HEROES: Hero[] = [
   // { id: 321, name: 'Last First', superpower: 'First at being last', age: 13},
   // { id: 322, name: 'Coughinator', superpower: 'Can make anyone cough', age: 61},
   // { id: 323, name: 'Lost & Found', superpower: 'Finds what has been lost', age: 24},
+  // { id: 324, name: 'Found Neva Mor', superpower: 'Makes things disappear forever', age: 23},
 
 ];
 
