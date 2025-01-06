@@ -316,6 +316,7 @@ export const HEROES: Hero[] = [
   // { id: 325, name: 'Tat Oooh', superpower: 'Can tatoo anyone or anything', age: 28},
   // { id: 326, name: 'Cow Scowl', superpower: 'Angriest bovine hero', age: 4},
   // { id: 327, name: 'Bow Miester', superpower: 'Performs the best bows', age: 49},
+  // { id: 328, name: 'Furry Purr', superpower: 'Purr of Loyalty', age: 1},
 
 ];
 
