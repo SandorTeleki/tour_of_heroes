@@ -331,6 +331,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 332, name: 'Box Tox', superpower: 'Can box anything', age: 24},
       // { id: 333, name: '3x3x3', superpower: 'The Box', age: 2},
       // { id: 334, name: 'Empty', superpower: 'Emptiness', age: 20},
+      // { id: 335, name: 'Eye 4 Eye', superpower: 'Returns all damage equally', age: 31},
 
 
     ];
