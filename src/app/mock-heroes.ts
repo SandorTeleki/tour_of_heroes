@@ -330,6 +330,7 @@ export const HEROES: Hero[] = [
   // { id: 339, name: 'Sign Post', superpower: 'Creates the best signs', age: 38},
   // { id: 340, name: 'pSi G.', superpower: 'Psionic hero', age: 28},
   // { id: 341, name: 'Here they go', superpower: 'Returns people to a fixed event', age: 41},
+  // { id: 342, name: 'Snackinator', superpower: 'Creates snacks out of thin air', age: 10},
 
 ];
 
