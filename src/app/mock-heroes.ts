@@ -334,6 +334,7 @@ export const HEROES: Hero[] = [
   // { id: 343, name: 'Fruitinator', superpower: 'Like Snackinator but for fruit', age: 13},
   // { id: 344, name: 'Candee Nator', superpower: 'Like Snackinator but for candy', age: 7},
   // { id: 345, name: 'Push Sides', superpower: 'Can push anything', age: 27},
+  // { id: 346, name: 'Pull Stripes', superpower: 'Can pull anything', age: 34},
 
 ];
 
