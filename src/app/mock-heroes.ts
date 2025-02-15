@@ -356,6 +356,7 @@ export const HEROES: Hero[] = [
   // { id: 365, name: 'Year Tear', superpower: 'Controls yearly cycles', age: 49},
   // { id: 366, name: 'Long yEar', superpower: 'Controls leap years', age: 49},
   // { id: 367, name: 'Sticky Knees', superpower: 'Stickiest knees in the universe', age: 63},
+  // { id: 368, name: 'Lock Dock', superpower: 'Strongest lock-er', age: 47},
 
 ];
 
