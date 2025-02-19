@@ -360,6 +360,7 @@ export const HEROES: Hero[] = [
   // { id: 369, name: '3x6x9', superpower: 'Power of Three', age: 33},
   // { id: 370, name: 'Brackets of Curls', superpower: 'Power of syntax', age: 58},
   // { id: 371, name: 'Pal Bearer', superpower: 'Best pall of all pallbearers', age: 43},
+  // { id: 372, name: 'Data Pond', superpower: 'Younger sibling of Data Lake', age: 4},
 
 ];
 
