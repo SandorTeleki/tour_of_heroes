@@ -363,6 +363,7 @@ export const HEROES: Hero[] = [
   // { id: 372, name: 'Data Pond', superpower: 'Younger sibling of Data Lake', age: 4},
   // { id: 373, name: 'Data Ocean', superpower: 'Older sibling of Data Lake', age: 6},
   // { id: 374, name: 'Data Planet', superpower: 'Oldest sibling of Data Lake', age: 14},
+  // { id: 375, name: 'Brow Eye', superpower: 'Hypnotic eyebrows', age: 31},
 
 ];
 
