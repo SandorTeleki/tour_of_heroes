@@ -368,6 +368,7 @@ export const HEROES: Hero[] = [
   // { id: 377, name: 'Flying Desk', superpower: 'Heroic bureaucrat', age: 48},
   // { id: 378, name: 'Crawling Chair', superpower: 'Leads committees of heroes', age: 67},
   // { id: 379, name: 'Rug Dug', superpower: 'Can escape from any prison', age: 49},
+  // { id: 380, name: 'Enginezzz', superpower: 'Heroic Engine', age: 33},
 
 ];
 
