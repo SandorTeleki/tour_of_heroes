@@ -375,6 +375,7 @@ export const HEROES: Hero[] = [
   // { id: 384, name: 'Navigator', superpower: 'Can navigate anywhere', age: 50},
   // { id: 385, name: 'Ali Gator', superpower: 'Gatorest gator drink creator', age: 22},
   // { id: 386, name: 'Croc Doc Nile', superpower: 'Crock the Doctor of Heroes', age: 24},
+  // { id: 387, name: 'No Comment', superpower: 'No comment', age: 34},
 
 ];
 
