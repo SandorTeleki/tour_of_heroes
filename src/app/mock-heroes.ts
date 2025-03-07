@@ -377,6 +377,7 @@ export const HEROES: Hero[] = [
   // { id: 386, name: 'Croc Doc Nile', superpower: 'Crock the Doctor of Heroes', age: 24},
   // { id: 387, name: 'No Comment', superpower: 'No comment', age: 34},
   // { id: 388, name: 'Info Overlord', superpower: 'Overloads everyone on info', age: 68},
+  // { id: 389, name: 'Info Trivia', superpower: 'Provides random heroic trivia, heroically', age: 31},
 
 ];
 
