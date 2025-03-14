@@ -384,6 +384,7 @@ export const HEROES: Hero[] = [
   // { id: 393, name: 'Hairy Wizard', superpower: 'Hairy is a wizard!', age: 15},
   // { id: 394, name: 'Can NON', superpower: 'Living canon', age: 31},
   // { id: 395, name: 'Art Dart Smart', superpower: 'Indirect fire hero', age: 40},
+  // { id: 396, name: 'Border Gore', superpower: 'Destroys borders', age: 56},
 
 ];
 
