@@ -391,6 +391,7 @@ export const HEROES: Hero[] = [
   // { id: 400, name: 'Worst Request', superpower: 'From bad to worst requests', age: 11},
   // { id: 401, name: 'Re Cord', superpower: 'Records everything', age: 86},
   // { id: 402, name: 'Coma Comma', superpower: 'Puts anyone into a coma if they forgot a comma', age: 46},
+  // { id: 403, name: 'Auth Forbidden', superpower: 'Forbids access', age: 28},
 
 ];
 
