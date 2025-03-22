@@ -400,6 +400,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 401, name: 'Re Cord', superpower: 'Records everything', age: 86},
       // { id: 402, name: 'Coma Comma', superpower: 'Puts anyone into a coma if they forgot a comma', age: 46},
       // { id: 403, name: 'Auth Forbidden', superpower: 'Forbids access', age: 28},
+      // { id: 404, name: 'Found Knot', superpower: 'Can't be found only lost', age: 21},
 
     ];
     return {heroes};
