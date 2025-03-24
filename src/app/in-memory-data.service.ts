@@ -402,6 +402,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 403, name: 'Auth Forbidden', superpower: 'Forbids access', age: 28},
       // { id: 404, name: 'Found Knot', superpower: 'Can't be found only lost', age: 21},
       // { id: 405, name: 'Gobble Gobble', superpower: 'Turkey of Doom', age: 2},
+      // { id: 406, name: 'Ship It', superpower: 'Ships anything', age: 35},
 
     ];
     return {heroes};
