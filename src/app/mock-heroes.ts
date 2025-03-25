@@ -395,6 +395,7 @@ export const HEROES: Hero[] = [
   // { id: 404, name: 'Found Knot', superpower: 'Can't be found only lost', age: 21},
   // { id: 405, name: 'Gobble Gobble', superpower: 'Turkey of Doom', age: 2},
   // { id: 406, name: 'Ship It', superpower: 'Ships anything', age: 35},
+  // { id: 407, name: 'Whack It', superpower: 'Whacks anything', age: 32},
 
 ];
 
