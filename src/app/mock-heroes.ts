@@ -400,6 +400,7 @@ export const HEROES: Hero[] = [
   // { id: 409, name: 'Spark El Jewel', superpower: 'Turns anything into a jewel', age: 60},
   // { id: 410, name: 'Spike Ball', superpower: 'Spikiest hero', age: 43},
   // { id: 411, name: 'Spike Rock', superpower: 'Rockiest hero', age: 43},
+  // { id: 412, name: 'Dee Jay', superpower: 'Heroic DJ', age: 24},
 
 ];
 
