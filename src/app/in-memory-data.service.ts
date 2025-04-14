@@ -423,6 +423,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 424, name: 'Fact Or Io', superpower: 'Makes factories for anything', age: 38},
       // { id: 425, name: 'Spit D Facts', superpower: 'Only speaks in facts', age: 31},
       // { id: 426, name: 'Worse Santa', superpower: 'The Santa that we deserve', age: 87},
+      // { id: 427, name: 'Purple Prisoner', superpower: 'Can imprison anyone with the power of purple', age: 38},
 
     ];
     return {heroes};
