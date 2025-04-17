@@ -427,6 +427,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 428, name: 'Per Ser Vee', superpower: 'Heroic perseverance', age: 38},
       // { id: 429, name: 'Collector', superpower: 'Can collect anything', age: 49},
       // { id: 430, name: 'Collector Supreme', superpower: 'Can collect anything that is branded', age: 48},
+      // { id: 431, name: 'PackageRRR', superpower: 'Can package anything', age: 37},
 
     ];
     return {heroes};
