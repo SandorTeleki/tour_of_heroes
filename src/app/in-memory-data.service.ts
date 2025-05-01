@@ -440,6 +440,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 441, name: 'Stack Stacker', superpower: 'Stacks stacks', age: 22},
       // { id: 442, name: 'Stacker Flower', superpower: 'Overflows stacks', age: 23},
       // { id: 443, name: 'Fly Flower', superpower: 'Creates flowers out of thin air', age: 24},
+      // { id: 444, name: 'Fly Tower', superpower: 'Towers over all flies', age: 21},
 
     ];
     return {heroes};
