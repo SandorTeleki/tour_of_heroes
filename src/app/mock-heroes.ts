@@ -435,6 +435,7 @@ export const HEROES: Hero[] = [
   // { id: 444, name: 'Fly Tower', superpower: 'Towers over all flies', age: 21},
   // { id: 445, name: 'Fly Swat TRRRRR', superpower: 'Swats fliers', age: 20},
   // { id: 446, name: 'Fly Biter', superpower: 'Bites whatever flies', age: 19},
+  // { id: 447, name: 'Try Dry', superpower: 'Dries whatever they try', age: 34},
 
 ];
 
