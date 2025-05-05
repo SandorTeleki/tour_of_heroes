@@ -444,6 +444,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 445, name: 'Fly Swat TRRRRR', superpower: 'Swats fliers', age: 20},
       // { id: 446, name: 'Fly Biter', superpower: 'Bites whatever flies', age: 19},
       // { id: 447, name: 'Try Dry', superpower: 'Dries whatever they try', age: 34},
+      // { id: 448, name: 'Dry Cry', superpower: 'Cries others dry', age: 41},
 
     ];
     return {heroes};
