@@ -444,6 +444,7 @@ export const HEROES: Hero[] = [
   // { id: 453, name: 'Charge Ine', superpower: 'Charges everything', age: 31},
   // { id: 454, name: 'Plankinator', superpower: 'Unstoppable plank warrior', age: 11},
   // { id: 455, name: 'Paininator', superpower: 'Grows stronger through pain', age: 19},
+  // { id: 456, name: 'Shin Shingle', superpower: 'Shins of shingle', age: 23},
 
 ];
 
