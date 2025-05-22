@@ -453,6 +453,7 @@ export const HEROES: Hero[] = [
   // { id: 462, name: 'Rookie Numbers', superpower: 'Makes others have only rookie numbers', age: 22},
   // { id: 463, name: 'Vistor', superpower: 'Can visit anywhere', age: 28},
   // { id: 464, name: 'Sol Rrr', superpower: 'Pirate of Sol', age: 34},
+  // { id: 465, name: 'Spaghetti Coder', superpower: 'Writes the best spaghetti code', age: 31},
 
 ];
 
