@@ -458,6 +458,7 @@ export const HEROES: Hero[] = [
   // { id: 467, name: 'Paper Thrower', superpower: 'Can swamp any problem in paperwork', age: 47},
   // { id: 468, name: 'Scissor Sharpener', superpower: 'Sharpest scissor thumbs', age: 16},
   // { id: 469, name: 'Atmospheric Shield', superpower: 'Can shield others from air threats', age: 45},
+  // { id: 470, name: 'pInter', superpower: 'Pint intern', age: 19},
 
 ];
 
