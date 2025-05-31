@@ -470,6 +470,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 471, name: 'dInter', superpower: 'Dinting intern', age: 17},
       // { id: 472, name: 'prInter', superpower: 'Printing intern', age: 20},
       // { id: 473, name: 'sprInter', superpower: 'Sprinting intern, for coffee ofc', age: 18},
+      // { id: 474, name: 'tInter', superpower: 'Intern tinting windows, heroically', age: 17},
 
     ];
     return {heroes};
