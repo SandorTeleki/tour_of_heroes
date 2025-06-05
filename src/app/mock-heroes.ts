@@ -467,6 +467,7 @@ export const HEROES: Hero[] = [
   // { id: 476, name: 'Faller', superpower: 'Can fall, just like Rome', age: 48},
   // { id: 477, name: 'Byzantine Planner', superpower: 'Creates the most byzantine plans', age: 31},
   // { id: 478, name: 'Last True Roman', superpower: 'Maximus Decimus', age: 42},
+  // { id: 479, name: 'First Holy Roman', superpower: 'Neither Roman, nor holy, nor the first, but still a hero', age: 50},
 
 ];
 
