@@ -473,6 +473,7 @@ export const HEROES: Hero[] = [
   // { id: 482, name: 'Den Faller', superpower: 'Collapses any den', age: 25},
   // { id: 483, name: 'Tren Troller', superpower: 'Heroic trolling through tren', age: 21},
   // { id: 484, name: 'hAnd Bagger', superpower: 'Heroic travel where everything fits in the hand bag', age: 29},
+  // { id: 485, name: 'Floor Sleeper', superpower: 'Can sleep anywhere', age: 32},
 
 ];
 
