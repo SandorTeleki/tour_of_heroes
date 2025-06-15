@@ -477,6 +477,7 @@ export const HEROES: Hero[] = [
   // { id: 486, name: 'Floor Sweeper', superpower: 'Sweeps the floor with any enemy', age: 37},
   // { id: 487, name: 'Bot Tod', superpower: 'The Tod of all Bots', age: 49},
   // { id: 488, name: 'Snot Rod', superpower: 'Most infectious hero', age: 57},
+  // { id: 489, name: 'Toast Toaster', superpower: 'Heroic toasts', age: 42},
 
 ];
 
