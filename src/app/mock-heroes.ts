@@ -480,6 +480,7 @@ export const HEROES: Hero[] = [
   // { id: 489, name: 'Toast Toaster', superpower: 'Heroic toasts', age: 42},
   // { id: 490, name: 'Toxic Peanut', superpower: 'Most toxic hero', age: 53},
   // { id: 491, name: 'Safe Walnut', superpower: 'Protects with all its being', age: 28},
+  // { id: 492, name: 'Spicy Doe', superpower: 'Heroism powered by spice', age: 33},
 
 ];
 
