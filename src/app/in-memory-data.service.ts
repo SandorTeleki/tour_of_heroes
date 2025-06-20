@@ -490,6 +490,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 491, name: 'Safe Walnut', superpower: 'Protects with all its being', age: 28},
       // { id: 492, name: 'Spicy Doe', superpower: 'Heroism powered by spice', age: 33},
       // { id: 493, name: 'Thunder Driver', superpower: 'Drives better the worse the weather', age: 29},
+      // { id: 494, name: 'Giga Golf', superpower: 'Turns the world into a golf course', age: 46},
 
     ];
     return {heroes};
