@@ -488,6 +488,7 @@ export const HEROES: Hero[] = [
   // { id: 497, name: 'Big n Tall', superpower: 'Largest hero', age: 60},
   // { id: 498, name: 'Tram Tychoon', superpower: 'Controls all trams', age: 71},
   // { id: 499, name: 'Gym Beaver', superpower: 'Like gym rat, but heroic', age: 34},
+  // { id: 500, name: 'D 500', superpower: 'Halfway there to full heroic automation', age: 20},
 
 ];
 
