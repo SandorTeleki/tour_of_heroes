@@ -501,6 +501,7 @@ export const HEROES: Hero[] = [
   // { id: 510, name: 'Boot Leg Dev', superpower: 'A developer with boots for legs', age: 24},
   // { id: 511, name: 'Boost Leg', superpower: 'Rockets for sprinting', age: 22},
   // { id: 512, name: 'True Thumb', superpower: 'Lie detector thumb', age: 34},
+  // { id: 513, name: 'Wannabee', superpower: 'A bee that wants to be a hero', age: 1},
 
 ];
 
