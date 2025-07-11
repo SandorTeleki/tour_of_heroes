@@ -503,6 +503,7 @@ export const HEROES: Hero[] = [
   // { id: 512, name: 'True Thumb', superpower: 'Lie detector thumb', age: 34},
   // { id: 513, name: 'Wannabee', superpower: 'A bee that wants to be a hero', age: 1},
   // { id: 514, name: 'Wannatree', superpower: 'A tree that wants to walk', age: 371},
+  // { id: 515, name: 'WannaCry', superpower: 'Hero of Ransoms', age: 45},
 
 ];
 
