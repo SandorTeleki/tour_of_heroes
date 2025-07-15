@@ -507,6 +507,7 @@ export const HEROES: Hero[] = [
   // { id: 516, name: 'WannaDrool', superpower: 'Causes enemies to drool uncontrollably', age: 31},
   // { id: 517, name: 'WannaLaugh', superpower: 'Causes uncontrollable laughter in everyone', age: 22},
   // { id: 518, name: 'WannaHide', superpower: 'Cannot be found', age: 30},
+  // { id: 519, name: 'WannaFly', superpower: 'Can only fly', age: 11},
 
 ];
 
