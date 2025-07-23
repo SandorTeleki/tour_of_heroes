@@ -514,7 +514,8 @@ export const HEROES: Hero[] = [
   // { id: 523, name: 'WannaZap', superpower: 'Magnetic zaps', age: 20},
   // { id: 524, name: 'WannaTrap', superpower: 'Traps any villain', age: 42},
   // { id: 525, name: 'WannaDrop', superpower: 'Can drop anyone', age: 31},
-  // { id: 526, name: 'WannaHide', superpower: 'Can hide anyone or anything, for a varying amount of time', age: 53},
+  // { id: 526, name: 'WannaShine', superpower: 'Can shine anyone or anything', age: 53},
+  // { id: 527, name: 'WannaBless', superpower: 'Provides boons to allies', age: 65},
 
 ];
 
