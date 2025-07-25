@@ -517,6 +517,7 @@ export const HEROES: Hero[] = [
   // { id: 526, name: 'WannaShine', superpower: 'Can shine anyone or anything', age: 53},
   // { id: 527, name: 'WannaBless', superpower: 'Provides boons to allies', age: 65},
   // { id: 528, name: 'WannaType', superpower: 'Types heroically', age: 49},
+  // { id: 529, name: 'Emote Roll', superpower: 'Influences emotions', age: 21},
 
 ];
 
