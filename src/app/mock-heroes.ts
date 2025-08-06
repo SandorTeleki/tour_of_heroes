@@ -529,6 +529,7 @@ export const HEROES: Hero[] = [
   // { id: 538, name: 'Tired Tire', superpower: 'Rolls tiredness on everyone', age: 23},
   // { id: 539, name: 'Mover Helper', superpower: 'Can help everyone move, magically fast', age: 19},
   // { id: 540, name: 'Code Breaker', superpower: 'Fixes code by breaking it further', age: 20},
+  // { id: 541, name: 'Sleep Breather', superpower: 'Stops villains from breathing during their sleep', age: 31},
 
 ];
 
