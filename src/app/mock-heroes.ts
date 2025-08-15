@@ -538,6 +538,7 @@ export const HEROES: Hero[] = [
   // { id: 547, name: 'Diagonalgrade', superpower: 'Everything is at a strange angle with this hero', age: 42},
   // { id: 548, name: 'Be Grade Full', superpower: 'Heroic gratitude', age: 49},
   // { id: 549, name: 'D Grade Full', superpower: 'Heroic degradation', age: 48},
+  // { id: 550, name: 'Void Voice', superpower: 'Can speak where no sound exists', age: 36},
 
 ];
 
