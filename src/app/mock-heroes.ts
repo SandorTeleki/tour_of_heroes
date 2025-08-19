@@ -542,6 +542,7 @@ export const HEROES: Hero[] = [
   // { id: 551, name: 'Volcanic Silence', superpower: 'Silence where there should be none', age: 37},
   // { id: 552, name: 'Aquatic Drill', superpower: 'Can drill through anything', age: 25},
   // { id: 553, name: 'Earthen Varr', superpower: 'The clay of the Earth', age: 19},
+  // { id: 554, name: 'Pan Cake', superpower: 'Cakest of pans', age: 20},
 
 ];
 
