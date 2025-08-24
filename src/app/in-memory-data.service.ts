@@ -555,6 +555,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 556, name: 'Yarrr D', superpower: 'Brings the yard to each fight', age: 17},
       // { id: 557, name: 'Dector Challenger', superpower: 'Can challenge anyone', age: 16},
       // { id: 558, name: 'Frack Deck', superpower: 'Can deck anyone', age: 11},
+      // { id: 559, name: 'Sad Sack', superpower: 'Infects enemies with sadness', age: 22},
 
 
     ];
