@@ -548,6 +548,7 @@ export const HEROES: Hero[] = [
   // { id: 557, name: 'Dector Challenger', superpower: 'Can challenge anyone', age: 16},
   // { id: 558, name: 'Frack Deck', superpower: 'Can deck anyone', age: 11},
   // { id: 559, name: 'Sad Sack', superpower: 'Infects enemies with sadness', age: 22},
+  // { id: 560, name: 'Fad Stack', superpower: 'Infects enemies with the latest fad', age: 19},
 
 ];
 
