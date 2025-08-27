@@ -558,6 +558,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 559, name: 'Sad Sack', superpower: 'Infects enemies with sadness', age: 22},
       // { id: 560, name: 'Fad Stack', superpower: 'Infects enemies with the latest fad', age: 19},
       // { id: 561, name: 'Bread Cylinder', superpower: 'Turns weapons into bread', age: 32},
+      // { id: 562, name: 'Dread Cycler', superpower: 'Cycles on chains of dread', age: 34},
 
 
     ];
