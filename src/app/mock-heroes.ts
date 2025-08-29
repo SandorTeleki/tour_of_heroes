@@ -552,6 +552,7 @@ export const HEROES: Hero[] = [
   // { id: 561, name: 'Bread Cylinder', superpower: 'Turns weapons into bread', age: 32},
   // { id: 562, name: 'Dread Cycler', superpower: 'Cycles on chains of dread', age: 34},
   // { id: 563, name: 'Dri Ahd', superpower: 'An actual dryad', age: 251},
+  // { id: 564, name: 'Dice-eey', superpower: 'Turns each action into a matter of dice', age: 34},
 
 ];
 
