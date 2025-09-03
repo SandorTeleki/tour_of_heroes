@@ -557,6 +557,7 @@ export const HEROES: Hero[] = [
   // { id: 566, name: 'Tire Dire Haust', superpower: 'Tires everyone around them', age: 32},
   // { id: 567, name: 'Cylinder in Square', superpower: 'Geometrical powers', age: 44},
   // { id: 568, name: 'Roll'Oh', superpower: 'Rolls of power and dough', age: 57},
+  // { id: 569, name: 'Bard Ber', superpower: 'Bardic barber', age: 38},
 
 ];
 
