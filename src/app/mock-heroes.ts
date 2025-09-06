@@ -560,6 +560,7 @@ export const HEROES: Hero[] = [
   // { id: 569, name: 'Bard Ber', superpower: 'Bardic barber', age: 38},
   // { id: 570, name: 'Diss p. Oint', superpower: 'Dissapoints enemies', age: 45},
   // { id: 571, name: 'Tune Dial', superpower: 'Dials anyone, amps their power', age: 56},
+  // { id: 572, name: 'Duoh Tenger', superpower: 'Power of doubling', age: 22},
 
 ];
 
