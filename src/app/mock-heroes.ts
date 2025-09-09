@@ -563,6 +563,7 @@ export const HEROES: Hero[] = [
   // { id: 572, name: 'Duoh Tenger', superpower: 'Power of doubling', age: 22},
   // { id: 573, name: 'Tri Gonal', superpower: 'Power of tripling', age: 33},
   // { id: 574, name: 'Cal Fied', superpower: 'Calcifies enemies', age: 34},
+  // { id: 575, name: 'pGain', superpower: 'Gains through pain', age: 30},
 
 ];
 
