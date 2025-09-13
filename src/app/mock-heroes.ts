@@ -567,6 +567,7 @@ export const HEROES: Hero[] = [
   // { id: 576, name: 'Upper Pants', superpower: 'Legally distinct powers of upper garments', age: 18},
   // { id: 577, name: 'Over Armor', superpower: 'Legally distinct powers of defensive garments', age: 19},
   // { id: 578, name: 'Plastic Core', superpower: 'Can create anything from plastic', age: 61},
+  // { id: 579, name: 'Sulfur Chan', superpower: 'Power of sulfuric acid', age: 19},
 
 ];
 
