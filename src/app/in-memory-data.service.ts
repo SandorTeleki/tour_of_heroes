@@ -576,6 +576,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 577, name: 'Over Armor', superpower: 'Legally distinct powers of defensive garments', age: 19},
       // { id: 578, name: 'Plastic Core', superpower: 'Can create anything from plastic', age: 61},
       // { id: 579, name: 'Sulfur Chan', superpower: 'Power of sulfuric acid', age: 19},
+      // { id: 580, name: 'Semi Kun', superpower: 'Like truck kun, but a semi', age: 34},
 
 
     ];
