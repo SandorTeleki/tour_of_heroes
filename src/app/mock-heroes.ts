@@ -571,6 +571,7 @@ export const HEROES: Hero[] = [
   // { id: 580, name: 'Semi Kun', superpower: 'Like truck kun, but a semi', age: 34},
   // { id: 581, name: 'NonXist', superpower: 'Unexists things', age: 46},
   // { id: 582, name: 'Pixelnator', superpower: 'Turns things into pixels', age: 53},
+  // { id: 583, name: 'Crumbler', superpower: 'Crumbles things into dust', age: 62},
 
 ];
 
