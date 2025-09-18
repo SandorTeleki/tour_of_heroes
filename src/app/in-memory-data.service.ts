@@ -580,6 +580,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 581, name: 'NonXist', superpower: 'Unexists things', age: 46},
       // { id: 582, name: 'Pixelnator', superpower: 'Turns things into pixels', age: 53},
       // { id: 583, name: 'Crumbler', superpower: 'Crumbles things into dust', age: 62},
+      // { id: 584, name: 'Parshial', superpower: 'Part marshal, part hero', age: 33},
 
 
     ];
