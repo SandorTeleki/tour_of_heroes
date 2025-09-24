@@ -578,6 +578,7 @@ export const HEROES: Hero[] = [
   // { id: 587, name: 'Polite Ticks', superpower: 'Made up of ticks', age: 32},
   // { id: 588, name: 'Swing Tracker', superpower: 'Tracks motion without emotions', age: 25},
   // { id: 589, name: 'Caffeenator', superpower: 'Power of coffee', age: 31},
+  // { id: 590, name: 'Under D Line', superpower: 'Goes above and below all lines', age: 36},
 
 ];
 
