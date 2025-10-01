@@ -585,6 +585,7 @@ export const HEROES: Hero[] = [
   // { id: 594, name: 'Vanilla Bar', superpower: 'Bars of spice, comments of steel', age: 24},
   // { id: 595, name: 'Car Vine', superpower: 'Plant based vehicular hero', age: 23},
   // { id: 596, name: 'Carbonator', superpower: 'Carbonates anything', age: 31},
+  // { id: 597, name: 'D Carbonator', superpower: 'Decarbonates the atmosphere', age: 30},
 
 ];
 
