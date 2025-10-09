@@ -593,6 +593,7 @@ export const HEROES: Hero[] = [
   // { id: 602, name: 'Dee Phi', superpower: 'Defies expectation', age: 29},
   // { id: 603, name: 'Trrr Phi', superpower: 'Terrifies enemies', age: 28},
   // { id: 604, name: 'Peeetri Phi', superpower: 'Petrifies enemies', age: 27},
+  // { id: 605, name: 'Tee Nee Phi', superpower: 'Turns enemies into tiny teenagers', age: 22},
 
 ];
 
