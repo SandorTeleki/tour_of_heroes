@@ -601,6 +601,7 @@ export const HEROES: Hero[] = [
   // { id: 610, name: 'Star Dusk', superpower: 'Darkness of stars', age: 36},
   // { id: 611, name: 'Nuke Juke', superpower: 'Power of nuclear reactions', age: 34},
   // { id: 612, name: 'Pressure Fissure', superpower: 'Creates wholes in things', age: 41},
+  // { id: 613, name: 'Catinator', superpower: 'Like the terminator, but feline', age: 4},
 
 ];
 
