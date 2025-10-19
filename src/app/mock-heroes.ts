@@ -603,6 +603,7 @@ export const HEROES: Hero[] = [
   // { id: 612, name: 'Pressure Fissure', superpower: 'Creates wholes in things', age: 41},
   // { id: 613, name: 'Catinator', superpower: 'Like the terminator, but feline', age: 4},
   // { id: 614, name: 'TraaaaaaDah', superpower: 'Element of surprise', age: 66},
+  // { id: 615, name: 'Lidz', superpower: 'Put lids on any issue', age: 53},
 
 ];
 
