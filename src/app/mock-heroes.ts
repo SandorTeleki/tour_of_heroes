@@ -622,6 +622,7 @@ export const HEROES: Hero[] = [
   // { id: 631, name: 'Slink Jinx', superpower: 'Sling that jinxes', age: 14},
   // { id: 632, name: 'Dim Breem', superpower: 'Brightest in jams', age: 19},
   // { id: 633, name: 'Literally Accurate', superpower: 'Embodies literary tropes', age: 35},
+  // { id: 634, name: 'Boot Lifter', superpower: 'Lifs the boot that only stomps', age: 42},
 
 ];
 
