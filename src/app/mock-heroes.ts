@@ -632,6 +632,7 @@ export const HEROES: Hero[] = [
   // { id: 641, name: 'Cut Content', superpower: 'Can cut any story', age: 61},
   // { id: 642, name: 'Thirtieth Shot', superpower: 'Every 30th shot is a headshot', age: 30},
   // { id: 643, name: 'Retake the Remake', superpower: 'Remakes any story', age: 39},
+  // { id: 644, name: 'Rebake the Retake', superpower: 'Rebakes half finished ideas', age: 36},
 
 ];
 
