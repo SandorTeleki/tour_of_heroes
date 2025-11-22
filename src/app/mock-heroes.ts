@@ -637,6 +637,7 @@ export const HEROES: Hero[] = [
   // { id: 646, name: 'Tree Knight', superpower: 'Steed of vines, arms of trunks', age: 45},
   // { id: 647, name: 'Redest Green', superpower: 'Speed of nature', age: 20},
   // { id: 648, name: 'Freshest Loser', superpower: 'Never a sore loser', age: 19},
+  // { id: 649, name: 'Sorest Winner', superpower: 'Always a sore winner', age: 19},
 
 ];
 
