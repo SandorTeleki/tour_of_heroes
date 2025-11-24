@@ -639,6 +639,7 @@ export const HEROES: Hero[] = [
   // { id: 648, name: 'Freshest Loser', superpower: 'Never a sore loser', age: 19},
   // { id: 649, name: 'Sorest Winner', superpower: 'Always a sore winner', age: 19},
   // { id: 650, name: 'Sane Ears', superpower: 'Sanity in hearing', age: 26},
+  // { id: 651, name: 'Insane Tears', superpower: 'Tears that cause insanity', age: 24},
 
 ];
 
