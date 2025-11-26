@@ -641,6 +641,7 @@ export const HEROES: Hero[] = [
   // { id: 650, name: 'Sane Ears', superpower: 'Sanity in hearing', age: 26},
   // { id: 651, name: 'Insane Tears', superpower: 'Tears that cause insanity', age: 24},
   // { id: 652, name: 'Pearl Eyes', superpower: 'All seeing blind eyes', age: 46},
+  // { id: 653, name: 'Titanium Fingers', superpower: 'Like diamond hands, but for fingers', age: 28},
 
 ];
 
