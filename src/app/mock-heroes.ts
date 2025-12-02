@@ -647,6 +647,7 @@ export const HEROES: Hero[] = [
   // { id: 656, name: 'Pffftinator', superpower: 'Power of disbelief', age: 32},
   // { id: 657, name: 'Pssstinator', superpower: 'Power of shushing anyone', age: 11},
   // { id: 658, name: 'Dart Tears', superpower: 'Tearducts shoot darts', age: 20},
+  // { id: 659, name: 'Turkey Leg', superpower: 'Fights with turkey legs galore', age: 35},
 
 ];
 
