@@ -653,6 +653,7 @@ export const HEROES: Hero[] = [
   // { id: 662, name: 'Bare Ears', superpower: 'Hears everything', age: 24},
   // { id: 663, name: 'Rash Dash', superpower: 'Dashing causes rashes in enemies', age: 19},
   // { id: 664, name: 'Trash Shouter', superpower: 'Power of trash talk', age: 20},
+  // { id: 665, name: 'Star Tears', superpower: 'Astral tears', age: 57},
 
 ];
 
