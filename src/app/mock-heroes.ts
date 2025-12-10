@@ -655,6 +655,7 @@ export const HEROES: Hero[] = [
   // { id: 664, name: 'Trash Shouter', superpower: 'Power of trash talk', age: 20},
   // { id: 665, name: 'Star Tears', superpower: 'Astral tears', age: 57},
   // { id: 666, name: 'Natas Legna', superpower: 'Living contradiction', age: 66},
+  // { id: 667, name: 'Hugh Mong Us', superpower: 'Living legend', age: 50},
 
 ];
 
