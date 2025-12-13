@@ -658,6 +658,7 @@ export const HEROES: Hero[] = [
   // { id: 667, name: 'Hugh Mong Us', superpower: 'Living legend', age: 50},
   // { id: 668, name: 'Bloated Goated', superpower: 'Goat of bloat', age: 38},
   // { id: 669, name: 'Supreme Stunt', superpower: 'Heroic stunts', age: 29},
+  // { id: 670, name: 'Outsaken', superpower: 'Forsaken but outside the grasp of Fate', age: 32},
 
 ];
 
