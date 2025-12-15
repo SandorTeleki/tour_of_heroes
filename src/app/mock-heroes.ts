@@ -660,6 +660,7 @@ export const HEROES: Hero[] = [
   // { id: 669, name: 'Supreme Stunt', superpower: 'Heroic stunts', age: 29},
   // { id: 670, name: 'Outsaken', superpower: 'Forsaken but outside the grasp of Fate', age: 32},
   // { id: 671, name: 'Wedge Bone', superpower: 'Wedges enemies', age: 40},
+  // { id: 672, name: 'Omni Nav', superpower: 'Can navigate anywhere', age: 57},
 
 ];
 
