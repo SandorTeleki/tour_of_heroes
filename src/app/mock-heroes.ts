@@ -661,6 +661,7 @@ export const HEROES: Hero[] = [
   // { id: 670, name: 'Outsaken', superpower: 'Forsaken but outside the grasp of Fate', age: 32},
   // { id: 671, name: 'Wedge Bone', superpower: 'Wedges enemies', age: 40},
   // { id: 672, name: 'Omni Nav', superpower: 'Can navigate anywhere', age: 57},
+  // { id: 673, name: 'Knee Game', superpower: 'Can knee anything and anyone', age: 44},
 
 ];
 
