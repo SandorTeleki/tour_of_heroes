@@ -663,6 +663,7 @@ export const HEROES: Hero[] = [
   // { id: 672, name: 'Omni Nav', superpower: 'Can navigate anywhere', age: 57},
   // { id: 673, name: 'Knee Game', superpower: 'Can knee anything and anyone', age: 44},
   // { id: 674, name: 'Flexy Statue', superpower: 'Overpowers with stillness', age: 60},
+  // { id: 675, name: 'Nasal Ponytail', superpower: 'Nasal hair for movement and fighting', age: 87},
 
 ];
 
