@@ -665,6 +665,7 @@ export const HEROES: Hero[] = [
   // { id: 674, name: 'Flexy Statue', superpower: 'Overpowers with stillness', age: 60},
   // { id: 675, name: 'Nasal Ponytail', superpower: 'Nasal hair for movement and fighting', age: 87},
   // { id: 676, name: 'Rib Spears', superpower: 'Shoots rib spears', age: 37},
+  // { id: 677, name: 'Vine Whip', superpower: 'Grows vine whips', age: 42},
 
 ];
 
