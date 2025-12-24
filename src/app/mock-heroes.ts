@@ -669,6 +669,7 @@ export const HEROES: Hero[] = [
   // { id: 678, name: 'Green Cheese', superpower: 'Can cheese any encounter', age: 38},
   // { id: 679, name: 'Fried Vampire', superpower: 'Vampire that gets stronger from exposure to the sun', age: 89},
   // { id: 680, name: 'Solid Blood', superpower: 'Blood spikes', age: 19},
+  // { id: 681, name: 'BroCooleeh', superpower: 'Coolest broccoli', age: 2},
 
 ];
 
