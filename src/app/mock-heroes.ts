@@ -678,6 +678,7 @@ export const HEROES: Hero[] = [
   // { id: 687, name: 'Content Grower', superpower: 'Antithesis of content farmers', age: 18},
   // { id: 688, name: 'Prescription Sweets', superpower: 'Can prescribe candy', age: 16},
   // { id: 689, name: 'Old Decade', superpower: 'Makes enemies older', age: 60},
+  // { id: 690, name: 'Snot Cannon', superpower: 'Weaponized cold consequences', age: 34},
 
 ];
 
