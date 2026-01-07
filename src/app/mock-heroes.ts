@@ -683,6 +683,7 @@ export const HEROES: Hero[] = [
   // { id: 692, name: 'Gi Zr', superpower: 'Gi wearing hero', age: 87},
   // { id: 693, name: 'Clay Fish', superpower: 'Floats like hollow ceramics', age: 24},
   // { id: 694, name: 'Con Fuse Or', superpower: 'Confuses enemies and allies', age: 32},
+  // { id: 695, name: 'Mayooh', superpower: 'Condiment dissapointment', age: 19},
 
 ];
 
