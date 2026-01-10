@@ -686,6 +686,7 @@ export const HEROES: Hero[] = [
   // { id: 695, name: 'Mayooh', superpower: 'Condiment dissapointment', age: 19},
   // { id: 696, name: 'Sir Swearalot', superpower: 'Knight of expletives', age: 56},
   // { id: 697, name: 'Lady Brella', superpower: 'Flying umbrella power', age: 42},
+  // { id: 698, name: 'Blue Thumb', superpower: 'Wireless information transfer through appendeges', age: 43},
 
 ];
 
