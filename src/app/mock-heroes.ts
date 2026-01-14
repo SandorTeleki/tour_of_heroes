@@ -691,6 +691,7 @@ export const HEROES: Hero[] = [
   // { id: 700, name: 'Wrestle Whistle', superpower: 'Whistles that wrestle', age: 25},
   // { id: 701, name: 'Choke Shake', superpower: 'Cooldest chokeholds', age: 48},
   // { id: 702, name: 'Flyin' Driver', superpower: 'Flys while driving', age: 52},
+  // { id: 703, name: 'Elavator Pitcher', superpower: 'Pitches faster than an elevator', age: 43},
 
 ];
 
