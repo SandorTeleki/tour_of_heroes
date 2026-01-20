@@ -696,6 +696,7 @@ export const HEROES: Hero[] = [
   // { id: 705, name: 'Flaming Tongue', superpower: 'Can flame anyone with spicy rhetoric', age: 31},
   // { id: 706, name: 'Raging Pinkies', superpower: 'Pinkies of death', age: 22},
   // { id: 707, name: 'Dark Lamp', superpower: 'Darkens the light', age: 24},
+  // { id: 708, name: 'Bright Desk', superpower: 'Can hold up anything with light', age: 19},
 
 ];
 
