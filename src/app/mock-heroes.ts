@@ -698,6 +698,7 @@ export const HEROES: Hero[] = [
   // { id: 707, name: 'Dark Lamp', superpower: 'Darkens the light', age: 24},
   // { id: 708, name: 'Bright Desk', superpower: 'Can hold up anything with light', age: 19},
   // { id: 709, name: 'Healthy Disease', superpower: 'Heals through diseases', age: 71},
+  // { id: 710, name: 'Dumb Wires', superpower: 'Turns wireless signals into wired signals', age: 65},
 
 ];
 
