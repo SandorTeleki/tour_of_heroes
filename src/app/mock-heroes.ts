@@ -700,6 +700,7 @@ export const HEROES: Hero[] = [
   // { id: 709, name: 'Healthy Disease', superpower: 'Heals through diseases', age: 71},
   // { id: 710, name: 'Dumb Wires', superpower: 'Turns wireless signals into wired signals', age: 65},
   // { id: 711, name: 'Flexible Immobile', superpower: 'Makes immobile objects elastic', age: 43},
+  // { id: 712, name: 'Mute Speaker', superpower: 'Subsonic scream', age: 36},
 
 ];
 
