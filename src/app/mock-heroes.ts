@@ -704,6 +704,7 @@ export const HEROES: Hero[] = [
   // { id: 713, name: 'Acinator', superpower: 'Aces things', age: 23},
   // { id: 714, name: 'Purple Chip', superpower: 'Chips anything into chips', age: 47},
   // { id: 715, name: 'Dark Chip', superpower: 'Chips the light', age: 46},
+  // { id: 716, name: 'Tasty Chip', superpower: 'Lure of food', age: 24},
 
 ];
 
