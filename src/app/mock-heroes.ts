@@ -708,6 +708,7 @@ export const HEROES: Hero[] = [
   // { id: 717, name: 'Binding Chip', superpower: 'Chips of binding paint to catch villains', age: 31},
   // { id: 718, name: 'Chirip Kit', superpower: 'Chirps through objects', age: 22},
   // { id: 719, name: 'Three Steps', superpower: 'Three steps ahead of enemies', age: 33},
+  // { id: 720, name: 'Quintuped', superpower: 'Five feeth to defeat villains with', age: 55},
 
 ];
 
