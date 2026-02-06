@@ -713,6 +713,7 @@ export const HEROES: Hero[] = [
   // { id: 722, name: 'Smart Mistake', superpower: 'Turns mistakes into victories', age: 28},
   // { id: 723, name: 'Dumb Discovery', superpower: 'Turns inventions into disappointments', age: 24},
   // { id: 724, name: 'Lumbering Speed', superpower: 'Inoxerable speed', age: 19},
+  // { id: 725, name: 'Ticking Bomb', superpower: 'Explosive ticks', age: 24},
 
 ];
 
