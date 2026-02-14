@@ -729,6 +729,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 730, name: 'Pillow Fighter', superpower: 'Fights with pillows', age: 19},
       // { id: 731, name: 'Pillow Crier', superpower: 'Forces enemies to cry into pillows', age: 18},
       // { id: 732, name: 'Knee Chair', superpower: 'Forces endless stories on enemies', age: 23},
+      // { id: 733, name: 'Paradoxi Flexy', superpower: 'Paradoxical abilities when dealing with others', age: 35},
 
     ];
     return {heroes};
