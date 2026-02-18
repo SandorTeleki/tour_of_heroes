@@ -725,6 +725,7 @@ export const HEROES: Hero[] = [
   // { id: 734, name: 'Counter Counter', superpower: 'Counters the counters of a count', age: 33},
   // { id: 735, name: 'Top Counter', superpower: 'Counter tops the counter top', age: 22},
   // { id: 736, name: 'Middle Shelf', superpower: 'Turns anything into its generic equivalent', age: 44},
+  // { id: 737, name: 'Lightless Glasses', superpower: 'Only see what is hidden', age: 27},
 
 ];
 
