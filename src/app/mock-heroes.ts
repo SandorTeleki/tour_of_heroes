@@ -727,6 +727,7 @@ export const HEROES: Hero[] = [
   // { id: 736, name: 'Middle Shelf', superpower: 'Turns anything into its generic equivalent', age: 44},
   // { id: 737, name: 'Lightless Glasses', superpower: 'Only see what is hidden', age: 27},
   // { id: 738, name: 'Borderless Limit', superpower: 'Creates limits on unbounded powers', age: 51},
+  // { id: 739, name: 'Cyman', superpower: 'Cybernetic human', age: 87},
 
 ];
 
