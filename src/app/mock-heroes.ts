@@ -729,6 +729,7 @@ export const HEROES: Hero[] = [
   // { id: 738, name: 'Borderless Limit', superpower: 'Creates limits on unbounded powers', age: 51},
   // { id: 739, name: 'Cyman', superpower: 'Cybernetic human', age: 87},
   // { id: 740, name: 'Tryborg', superpower: 'Tries anything like a robot', age: 18},
+  // { id: 741, name: 'Gorg', superpower: 'Gorge borg', age: 29},
 
 ];
 
