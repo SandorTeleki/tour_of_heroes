@@ -735,6 +735,7 @@ export const HEROES: Hero[] = [
   // { id: 744, name: 'Line Liez', superpower: 'Lies of lines', age: 20},
   // { id: 745, name: 'Dozen Piece', superpower: 'Can only do things in dozens', age: 12},
   // { id: 746, name: 'Wood Piece', superpower: 'Deadly wooden weapons', age: 31},
+  // { id: 747, name: 'Tri-Piece', superpower: 'Power of triple gunning', age: 33},
 
 ];
 
