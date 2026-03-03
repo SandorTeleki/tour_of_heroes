@@ -738,6 +738,7 @@ export const HEROES: Hero[] = [
   // { id: 747, name: 'Tri-Piece', superpower: 'Power of triple gunning', age: 33},
   // { id: 748, name: 'Drrrillz', superpower: 'Drills through anything', age: 41},
   // { id: 749, name: 'Belt Tap', superpower: 'Taps belts', age: 44},
+  // { id: 750, name: 'Fly Zap', superpower: 'Can only zap flying things', age: 23},
 
 ];
 
