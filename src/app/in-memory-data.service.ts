@@ -753,6 +753,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 754, name: 'Solid Gas', superpower: 'Bullets out of thin air', age: 54},
       // { id: 755, name: 'Bonus Loss', superpower: 'Causes enemies to lose more', age: 47},
       // { id: 756, name: 'Hair Loss', superpower: 'Immobilizing baldness', age: 52},
+      // { id: 757, name: 'Back Hairz', superpower: 'Hair spikes on back', age: 57},
 
     ];
     return {heroes};
