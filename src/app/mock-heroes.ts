@@ -750,6 +750,7 @@ export const HEROES: Hero[] = [
   // { id: 759, name: 'Nuke Arms', superpower: 'Fists that destroy', age: 27},
   // { id: 760, name: 'Bad Bracelet', superpower: 'Cuffs anyone', age: 48},
   // { id: 761, name: 'Gonkinator', superpower: 'Turns enemies into gonks', age: 77},
+  // { id: 762, name: 'Choom Doom', superpower: 'Doom of Chooms', age: 77},
 
 ];
 
