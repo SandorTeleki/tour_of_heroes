@@ -760,6 +760,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 761, name: 'Gonkinator', superpower: 'Turns enemies into gonks', age: 77},
       // { id: 762, name: 'Choom Doom', superpower: 'Doom of Chooms', age: 77},
       // { id: 763, name: 'Cheez-oh', superpower: 'Sneezes cheese', age: 24},
+      // { id: 764, name: 'Brass Cups', superpower: 'Banging cups of heroism', age: 54},
 
     ];
     return {heroes};
