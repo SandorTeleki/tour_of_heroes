@@ -756,6 +756,7 @@ export const HEROES: Hero[] = [
   // { id: 765, name: 'Tin Leaf', superpower: 'Turns leaves into metallic weapons', age: 37},
   // { id: 766, name: 'Self Fish', superpower: 'Turns enemies into selfish aquatic beings', age: 22},
   // { id: 767, name: 'Ekso', superpower: 'Exponential gains', age: 21},
+  // { id: 768, name: 'Swimming Boots', superpower: 'Can travel underwater like on land', age: 45},
 
 ];
 
