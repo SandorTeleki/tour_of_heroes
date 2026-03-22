@@ -757,6 +757,7 @@ export const HEROES: Hero[] = [
   // { id: 766, name: 'Self Fish', superpower: 'Turns enemies into selfish aquatic beings', age: 22},
   // { id: 767, name: 'Ekso', superpower: 'Exponential gains', age: 21},
   // { id: 768, name: 'Swimming Boots', superpower: 'Can travel underwater like on land', age: 45},
+  // { id: 769, name: 'Sinking Pants', superpower: 'Can sink anything', age: 34},
 
 ];
 
