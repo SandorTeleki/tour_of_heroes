@@ -760,6 +760,7 @@ export const HEROES: Hero[] = [
   // { id: 769, name: 'Sinking Pants', superpower: 'Can sink anything', age: 34},
   // { id: 770, name: 'Sitting Springs', superpower: 'Springs seats of enemies', age: 26},
   // { id: 771, name: 'Wharf Lion', superpower: 'Protector of wharves', age: 48},
+  // { id: 772, name: 'Sky Rock', superpower: 'Meteoric rises and falls', age: 55},
 
 ];
 
