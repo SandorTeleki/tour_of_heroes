@@ -775,6 +775,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 776, name: 'Default Uniqueness', superpower: 'Turns unique traits back into their defaults', age: 33},
       // { id: 777, name: 'Lucky Duck', superpower: 'Luckiest hero', age: 77},
       // { id: 778, name: 'Vampire Donkey', superpower: 'The most stubborn hero', age: 568},
+      // { id: 779, name: 'Flying Snail', superpower: 'Flies counterintuitively slowly', age: 28},
 
     ];
     return {heroes};
