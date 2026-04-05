@@ -771,6 +771,7 @@ export const HEROES: Hero[] = [
   // { id: 780, name: 'Folding Napkin', superpower: 'Can fold themselves more than ten times', age: 10},
   // { id: 781, name: 'Flying Spoon', superpower: 'Hero fueled by the power of breakfast cereal', age: 11},
   // { id: 782, name: 'Smart Rock', superpower: 'Hero made out of stone', age: 139},
+  // { id: 783, name: 'Dumb Crystal', superpower: 'Crystalizes dumbness in enemies', age: 35},
 
 ];
 
