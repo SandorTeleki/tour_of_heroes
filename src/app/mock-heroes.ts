@@ -776,6 +776,7 @@ export const HEROES: Hero[] = [
   // { id: 785, name: 'Monkey Key', superpower: 'Can open any window', age: 25},
   // { id: 786, name: 'Snitch Stitcher', superpower: 'Does what the saying says', age: 34},
   // { id: 787, name: 'Hug Dispenser', superpower: 'Hugs enemies to complacency, consensually', age: 53},
+  // { id: 788, name: 'Fake Goals', superpower: 'Turns enemy goals into jokes', age: 64},
 
 ];
 
