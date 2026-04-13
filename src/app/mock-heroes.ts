@@ -779,6 +779,7 @@ export const HEROES: Hero[] = [
   // { id: 788, name: 'Fake Goals', superpower: 'Turns enemy goals into jokes', age: 64},
   // { id: 789, name: 'Real Dreams', superpower: 'Turns dreams into nightmares and vice versa', age: 55},
   // { id: 790, name: 'One of Those', superpower: 'Typical one of those', age: 44},
+  // { id: 791, name: 'Reflex Voter', superpower: 'First to vote on everything', age: 36},
 
 ];
 
