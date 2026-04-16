@@ -782,6 +782,7 @@ export const HEROES: Hero[] = [
   // { id: 791, name: 'Reflex Voter', superpower: 'First to vote on everything', age: 36},
   // { id: 792, name: 'Cal Trop', superpower: 'Traps galore', age: 28},
   // { id: 793, name: 'Bucket Drop', superpower: 'Drops buckets on enemies', age: 29},
+  // { id: 794, name: 'Leaky Shoe', superpower: 'Makes enemies walk barefoot', age: 41},
 
 ];
 
