@@ -789,6 +789,7 @@ export const HEROES: Hero[] = [
   // { id: 798, name: 'Thanker', superpower: 'Tanks thanks with a full tank of positivity', age: 46},
   // { id: 799, name: 'Sink Drainer', superpower: 'Drains negativity', age: 61},
   // { id: 800, name: 'Ate Hundoh', superpower: 'The power of DCCC', age: 800},
+  // { id: 801, name: 'Gigamath', superpower: 'Crushes opponents with numbers', age: 11},
 
 ];
 
