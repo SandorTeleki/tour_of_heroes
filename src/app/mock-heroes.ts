@@ -791,6 +791,7 @@ export const HEROES: Hero[] = [
   // { id: 800, name: 'Ate Hundoh', superpower: 'The power of DCCC', age: 800},
   // { id: 801, name: 'Gigamath', superpower: 'Crushes opponents with numbers', age: 11},
   // { id: 802, name: 'Worm Troll', superpower: 'Worms way past any opposition', age: 27},
+  // { id: 803, name: 'Bowl Reader', superpower: 'Turns bowl reading prophecies into reality', age: 47},
 
 ];
 
