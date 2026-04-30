@@ -796,6 +796,7 @@ export const HEROES: Hero[] = [
   // { id: 805, name: 'Wax Trex', superpower: 'Waxes accountability and turns it into responsibility', age: 32},
   // { id: 806, name: 'Butter Teeth', superpower: 'Softest teeth that bite through anything, slowly', age: 76},
   // { id: 807, name: 'Four Ears', superpower: 'Hears the past', age: 58},
+  // { id: 808, name: 'Eight Deaths', superpower: 'Can heroically kill enemies in 8 unique ways', age: 88},
 
 ];
 
