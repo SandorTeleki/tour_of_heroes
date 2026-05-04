@@ -800,6 +800,7 @@ export const HEROES: Hero[] = [
   // { id: 809, name: 'Red Tricycle', superpower: 'Fastest bike hero', age: 5},
   // { id: 810, name: 'Wobbly Light', superpower: 'The shakey light of progress', age: 34},
   // { id: 811, name: 'Strong Feather', superpower: 'Feathers as weapons', age: 23},
+  // { id: 812, name: 'Weak Beak', superpower: 'Beakiest hero of them all', age: 19},
 
 ];
 
