@@ -803,6 +803,7 @@ export const HEROES: Hero[] = [
   // { id: 812, name: 'Weak Beak', superpower: 'Beakiest hero of them all', age: 19},
   // { id: 813, name: 'Craddle Tactician', superpower: 'Unbeatable baby tactics', age: 2},
   // { id: 814, name: 'Silent Cough', superpower: 'Spreads mindcontrol germs through coughs', age: 38},
+  // { id: 815, name: 'Wolf Hydra', superpower: 'Like a hydra, but with wolf heads', age: 44},
 
 ];
 
