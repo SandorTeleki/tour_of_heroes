@@ -805,6 +805,7 @@ export const HEROES: Hero[] = [
   // { id: 814, name: 'Silent Cough', superpower: 'Spreads mindcontrol germs through coughs', age: 38},
   // { id: 815, name: 'Wolf Hydra', superpower: 'Like a hydra, but with wolf heads', age: 44},
   // { id: 816, name: 'Flexy Budget', superpower: 'Creates budgets out of thin air', age: 51},
+  // { id: 817, name: 'Mal Tested', superpower: 'Poorly tests things to break them', age: 49},
 
 ];
 
