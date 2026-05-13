@@ -809,6 +809,7 @@ export const HEROES: Hero[] = [
   // { id: 818, name: 'X-I', superpower: 'Crosses enemy eyes', age: 44},
   // { id: 819, name: 'Fluffy Scorpion', superpower: 'Cuddly and dangerous', age: 9},
   // { id: 820, name: 'Basic Acid', superpower: 'Kills with pH neutrality!', age: 20},
+  // { id: 821, name: 'Trx', superpower: 'Tricks enemies', age: 16},
 
 ];
 
