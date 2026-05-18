@@ -814,6 +814,7 @@ export const HEROES: Hero[] = [
   // { id: 823, name: 'Can Fish', superpower: 'Shoots fish from cans, heroically', age: 24},
   // { id: 824, name: 'Very Intersting Potato', superpower: 'VIP of heroic veggies', age: 2},
   // { id: 825, name: 'Very Intersting Carrot', superpower: 'VICtory of orange color', age: 31},
+  // { id: 826, name: 'Sleeve Pen', superpower: 'Shoots ink from sleeves', age: 28},
 
 ];
 
