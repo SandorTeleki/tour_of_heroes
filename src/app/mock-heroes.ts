@@ -826,6 +826,7 @@ export const HEROES: Hero[] = [
   // { id: 835, name: 'Middle Denominator', superpower: 'Confused about own powers', age: 11},
   // { id: 836, name: 'Lukewarm Insults', superpower: 'Mild insults of debuff', age: 19},
   // { id: 837, name: 'Troll Spit', superpower: 'Acidic spit', age: 64},
+  // { id: 838, name: 'Troll Toe', superpower: 'Toe that stabs other toes visciously', age: 41},
 
 ];
 
