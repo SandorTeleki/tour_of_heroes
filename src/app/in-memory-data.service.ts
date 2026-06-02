@@ -837,6 +837,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 838, name: 'Troll Toe', superpower: 'Toe that stabs other toes visciously', age: 41},
       // { id: 839, name: 'Nick Ql', superpower: 'Throws quality coins at enemies', age: 35},
       // { id: 840, name: 'Zord', superpower: 'Lord of the letter Z', age: 41},
+      // { id: 841, name: 'Big Baby', superpower: 'Debuffs enemies with temper tantrums', age: 20},
 
     ];
     return {heroes};
