@@ -843,6 +843,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 844, name: 'Buzz Nails', superpower: 'Nails that buzz to cut', age: 46},
       // { id: 845, name: 'Neutral Neutraility', superpower: 'As neutral as possible', age: 55},
       // { id: 846, name: 'Bzzz Ssss', superpower: 'Causes electric malfunctions', age: 70},
+      // { id: 847, name: 'Three Ears', superpower: 'Hears the future', age: 68},
 
     ];
     return {heroes};
