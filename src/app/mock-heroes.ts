@@ -842,6 +842,7 @@ export const HEROES: Hero[] = [
   // { id: 851, name: 'Harmful Aid', superpower: 'Harms villians by aiding them', age: 65},
   // { id: 852, name: 'Drunk Sobriety', superpower: 'Drunken fists with no booze', age: 49},
   // { id: 853, name: 'Peaceful Violence', superpower: 'Peacefully violent', age: 33},
+  // { id: 854, name: 'OG Cook', superpower: 'LET HIM COOK!', age: 30},
 
 ];
 
