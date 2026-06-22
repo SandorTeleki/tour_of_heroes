@@ -849,6 +849,7 @@ export const HEROES: Hero[] = [
   // { id: 858, name: 'Bug Spawner', superpower: 'Spawns bugs in code', age: 39},
   // { id: 859, name: 'Untestable', superpower: 'Can't be tested, does everything live', age: 18},
   // { id: 860, name: 'Lost Searcher', superpower: 'Finds things they didn't search for', age: 35},
+  // { id: 861, name: 'Empty Threat', superpower: 'Threatens with empitness', age: 40},
 
 ];
 
