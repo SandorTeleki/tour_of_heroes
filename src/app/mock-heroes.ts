@@ -851,6 +851,7 @@ export const HEROES: Hero[] = [
   // { id: 860, name: 'Lost Searcher', superpower: 'Finds things they didn't search for', age: 35},
   // { id: 861, name: 'Empty Threat', superpower: 'Threatens with empitness', age: 40},
   // { id: 862, name: 'Handy Elbows', superpower: 'Elbows that crush steel', age: 41},
+  // { id: 863, name: 'Horsing Square', superpower: 'Angular horsing around to confuse all enemies', age: 52},
 
 ];
 
