@@ -854,6 +854,7 @@ export const HEROES: Hero[] = [
   // { id: 863, name: 'Horsing Square', superpower: 'Angular horsing around to confuse all enemies', age: 52},
   // { id: 864, name: 'Triple Clover', superpower: 'Provides threefold fortune to allies', age: 33},
   // { id: 865, name: 'Table Juggler', superpower: 'Juggles tables at enemies', age: 43},
+  // { id: 866, name: 'Quintuple Gamble', superpower: 'Gambles nothing and yet everything to gain powers', age: 20},
 
 ];
 
