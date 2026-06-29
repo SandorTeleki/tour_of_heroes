@@ -857,6 +857,7 @@ export const HEROES: Hero[] = [
   // { id: 866, name: 'Quintuple Gamble', superpower: 'Gambles nothing and yet everything to gain powers', age: 20},
   // { id: 867, name: 'Absolute Heat', superpower: 'Controls temperature', age: 36},
   // { id: 868, name: 'Abs of Fluff', superpower: 'Defeats enemies with contradictions', age: 50},
+  // { id: 869, name: 'Sticky Feathers', superpower: 'Flight that sticks to objects' age: 49},
 
 ];
 
