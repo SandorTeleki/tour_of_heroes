@@ -859,6 +859,7 @@ export const HEROES: Hero[] = [
   // { id: 868, name: 'Abs of Fluff', superpower: 'Defeats enemies with contradictions', age: 50},
   // { id: 869, name: 'Sticky Feathers', superpower: 'Flight that sticks to objects' age: 49},
   // { id: 870, name: 'Droll Voice', superpower: 'Bores enemies to death' age: 80},
+  // { id: 871, name: 'Zol Krack', superpower: 'Demonic attacks' age: 45},
 
 ];
 
