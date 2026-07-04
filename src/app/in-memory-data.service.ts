@@ -870,6 +870,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 871, name: 'Zol Krack', superpower: 'Demonic attacks' age: 45},
       // { id: 872, name: 'Sack Track', superpower: 'Sacks anything that moves on tracks' age: 53},
       // { id: 873, name: 'Trip Ruiner', superpower: 'Ruins enemy trips' age: 41},
+      // { id: 874, name: 'Config Tricker', superpower: 'Tricks any configuration into games' age: 56},
 
     ];
     return {heroes};
