@@ -865,6 +865,7 @@ export const HEROES: Hero[] = [
   // { id: 874, name: 'Config Tricker', superpower: 'Tricks any configuration into games' age: 56},
   // { id: 875, name: 'Course Slipper', superpower: 'Slips past all exams successfully' age: 20},
   // { id: 876, name: 'Curse Slapper', superpower: 'Slaps curses on enemies' age: 48},
+  // { id: 877, name: 'Pepper Pincher', superpower: 'Causes uncontrollable sneezing' age: 52},
 
 ];
 
