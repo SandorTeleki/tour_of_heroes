@@ -876,6 +876,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 877, name: 'Pepper Pincher', superpower: 'Causes uncontrollable sneezing' age: 52},
       // { id: 878, name: 'Zap Sick', superpower: 'Zaps enemies with sickness' age: 71},
       // { id: 879, name: 'High Grumble', superpower: 'Grumbles opponents into surrender' age: 51},
+      // { id: 880, name: 'Daze Phase', superpower: 'Phases through enemies with a daze' age: 34},
 
     ];
     return {heroes};
