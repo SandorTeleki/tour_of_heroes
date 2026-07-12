@@ -870,6 +870,7 @@ export const HEROES: Hero[] = [
   // { id: 879, name: 'High Grumble', superpower: 'Grumbles opponents into surrender' age: 51},
   // { id: 880, name: 'Daze Phase', superpower: 'Phases through enemies with a daze' age: 34},
   // { id: 881, name: 'Crimer', superpower: 'Professional criminal hero' age: 47},
+  // { id: 882, name: 'Diet Beat Tsss', superpower: 'Power of sugar diet' age: 53},
 
 ];
 
