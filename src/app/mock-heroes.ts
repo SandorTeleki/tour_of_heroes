@@ -871,6 +871,7 @@ export const HEROES: Hero[] = [
   // { id: 880, name: 'Daze Phase', superpower: 'Phases through enemies with a daze' age: 34},
   // { id: 881, name: 'Crimer', superpower: 'Professional criminal hero' age: 47},
   // { id: 882, name: 'Diet Beat Tsss', superpower: 'Power of sugar diet' age: 53},
+  // { id: 883, name: 'Dream Cream', superpower: 'Removes sourness from enemies' age: 26},
 
 ];
 
