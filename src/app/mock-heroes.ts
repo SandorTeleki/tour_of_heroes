@@ -875,6 +875,7 @@ export const HEROES: Hero[] = [
   // { id: 884, name: 'Solid Soup', superpower: 'Sustains other heroes indefinitely' age: 48},
   // { id: 885, name: 'Changing Cup', superpower: 'Power of changing fluids' age: 38},
   // { id: 886, name: 'Zorks', superpower: 'Power of the letter Z' age: 45},
+  // { id: 887, name: 'Square Zone', superpower: 'Best fortifier' age: 32},
 
 ];
 
