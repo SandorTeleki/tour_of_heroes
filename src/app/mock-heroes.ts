@@ -877,6 +877,7 @@ export const HEROES: Hero[] = [
   // { id: 886, name: 'Zorks', superpower: 'Power of the letter Z' age: 45},
   // { id: 887, name: 'Square Zone', superpower: 'Best fortifier' age: 32},
   // { id: 888, name: 'Vertical Infinity', superpower: 'Most misunderstood concept and hero' age: 88},
+  // { id: 889, name: 'Horizontal Eight', superpower: 'Second most misunderstood concept and hero' age: 88},
 
 ];
 
