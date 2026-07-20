@@ -886,6 +886,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 887, name: 'Square Zone', superpower: 'Best fortifier' age: 32},
       // { id: 888, name: 'Vertical Infinity', superpower: 'Most misunderstood concept and hero' age: 88},
       // { id: 889, name: 'Horizontal Eight', superpower: 'Second most misunderstood concept and hero' age: 88},
+      // { id: 890, name: 'Rental Power', superpower: 'Rents out super power for time' age: 49},
 
     ];
     return {heroes};
