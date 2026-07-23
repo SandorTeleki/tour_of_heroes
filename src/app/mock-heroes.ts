@@ -881,6 +881,7 @@ export const HEROES: Hero[] = [
   // { id: 890, name: 'Rental Power', superpower: 'Rents out super power for time' age: 49},
   // { id: 891, name: 'Water Chew', superpower: 'Chews water to turn into gas or solid' age: 53},
   // { id: 892, name: 'Fridge Roof', superpower: 'Freezes only stuff above them' age: 47},
+  // { id: 893, name: 'Feet Hands', superpower: 'Feet with more dexterity than hands' age: 39},
 
 ];
 
