@@ -886,6 +886,7 @@ export const HEROES: Hero[] = [
   // { id: 895, name: 'Grave Protector', superpower: 'Empowered in graveyards to protect the dead' age: 60},
   // { id: 896, name: 'Sssnek', superpower: 'Snakiest hero' age: 10},
   // { id: 897, name: 'Drodt', superpower: 'Nobody knows just how heroic they truly are' age: 58},
+  // { id: 898, name: 'Couch Forter', superpower: 'Can fortify any furniture for leisure' age: 46},
 
 ];
 
