@@ -898,6 +898,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 899, name: 'Chair Swinger', superpower: 'Can turn any piece of furniture into a weapon' age: 39},
       // { id: 900, name: 'CM', superpower: 'The power of the Roman number 900' age: 57},
       // { id: 901, name: 'Nose Lifts', superpower: 'Can lift anything with nasal power' age: 63},
+      // { id: 902, name: 'Boiling Head', superpower: 'Thoughts boil water, literally' age: 72},
 
     ];
     return {heroes};
