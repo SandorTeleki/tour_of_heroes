@@ -900,6 +900,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 901, name: 'Nose Lifts', superpower: 'Can lift anything with nasal power' age: 63},
       // { id: 902, name: 'Boiling Head', superpower: 'Thoughts boil water, literally' age: 72},
       // { id: 903, name: 'Fifty Seconds', superpower: 'Messes with the flow of time' age: 0},
+      // { id: 904, name: 'Sixth Hour', superpower: 'Confuses enemies sense of time' age: 66},
 
     ];
     return {heroes};
