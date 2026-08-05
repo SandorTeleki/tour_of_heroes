@@ -894,6 +894,7 @@ export const HEROES: Hero[] = [
   // { id: 903, name: 'Fifty Seconds', superpower: 'Messes with the flow of time' age: 0},
   // { id: 904, name: 'Sixth Hour', superpower: 'Confuses enemies sense of time' age: 66},
   // { id: 905, name: 'TOURNAMENT ARC', superpower: 'Turns any confrontation into a TOURNAMENT ARC!' age: 41},
+  // { id: 906, name: 'Snooze Fest', superpower: 'Removes all excitment' age: 56},
 
 ];
 
