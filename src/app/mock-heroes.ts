@@ -901,6 +901,7 @@ export const HEROES: Hero[] = [
   // { id: 910, name: 'Silo X', superpower: 'Silos other powers' age: 39},
   // { id: 911, name: 'Slow Traveler', superpower: 'Can travel anywhere, but at a snails pace' age: 61},
   // { id: 912, name: 'Endless March', superpower: 'Can force others on an endless march' age: 73},
+  // { id: 913, name: 'Eleventh Hour', superpower: 'Last minute power ups' age: 68},
 
 ];
 
