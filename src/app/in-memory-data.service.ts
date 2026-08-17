@@ -910,6 +910,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 911, name: 'Slow Traveler', superpower: 'Can travel anywhere, but at a snails pace' age: 61},
       // { id: 912, name: 'Endless March', superpower: 'Can force others on an endless march' age: 73},
       // { id: 913, name: 'Eleventh Hour', superpower: 'Last minute power ups' age: 68},
+      // { id: 914, name: 'Last Second', superpower: 'Can only finish tasks in the last second' age: 60},
 
     ];
     return {heroes};
