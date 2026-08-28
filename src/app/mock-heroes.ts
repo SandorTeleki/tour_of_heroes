@@ -913,6 +913,7 @@ export const HEROES: Hero[] = [
   // { id: 922, name: 'Threadsnapper', superpower: 'Snaps any and all threads' age: 47},
   // { id: 923, name: 'Basketflier', superpower: 'Can fly inside a basket' age: 51},
   // { id: 924, name: 'Tablejumper', superpower: 'As long as tables are involved, can jump anywhere' age: 44},
+  // { id: 925, name: 'Wintertanner', superpower: 'Tans all enemies in the winter' age: 50},
 
 ];
 
