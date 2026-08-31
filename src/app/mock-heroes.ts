@@ -916,6 +916,7 @@ export const HEROES: Hero[] = [
   // { id: 925, name: 'Wintertanner', superpower: 'Tans all enemies in the winter' age: 50},
   // { id: 926, name: 'Truthliar', superpower: 'Lies about the truth, tells the truth about lies' age: 73},
   // { id: 927, name: 'Lownail', superpower: 'Can nail anything shorter than themselves' age: 23},
+  // { id: 928, name: 'Coldline', superpower: 'Breaks straight lines' age: 56},
 
 ];
 
