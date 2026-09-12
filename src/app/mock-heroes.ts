@@ -925,6 +925,7 @@ export const HEROES: Hero[] = [
   // { id: 934, name: 'Redcheese', superpower: 'Causes unstoppable rage in those that consume dairy products' age: 63},
   // { id: 935, name: 'Purplespikes', superpower: 'Inspires other heroes and boosts their stats' age: 74},
   // { id: 936, name: 'Snotslinger', superpower: 'Annoys enemies with endless snot' age: 32},
+  // { id: 937, name: 'Deepriser', superpower: 'Rises unexpectedly up to any challenge' age: 43},
 
 ];
 
