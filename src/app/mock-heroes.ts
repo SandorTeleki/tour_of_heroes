@@ -967,6 +967,7 @@ export const HEROES: Hero[] = [
   // { id: 976, name: 'Steal Glass', superpower: 'Makes enemies lose their sight' age: 50},
   // { id: 977, name: 'Proto Winner', superpower: 'The archetype of winning at anything and everything' age: 64},
   // { id: 978, name: 'Potato House', superpower: 'Fills any dwelling with enough food' age: 39},
+  // { id: 979, name: 'Stone Face', superpower: 'Cannot be phased by any enemy' age: 56},
 
 ];
 
