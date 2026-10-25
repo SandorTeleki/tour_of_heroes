@@ -976,6 +976,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 977, name: 'Proto Winner', superpower: 'The archetype of winning at anything and everything' age: 64},
       // { id: 978, name: 'Potato House', superpower: 'Fills any dwelling with enough food' age: 39},
       // { id: 979, name: 'Stone Face', superpower: 'Cannot be phased by any enemy' age: 56},
+      // { id: 980, name: 'Chain Nail', superpower: 'Nails chains against the wall' age: 48},
 
     ];
     return {heroes};
