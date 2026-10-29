@@ -972,6 +972,7 @@ export const HEROES: Hero[] = [
   // { id: 981, name: 'Golden Goat', superpower: 'Hero that awes any animal' age: 34},
   // { id: 982, name: 'White Spiderlegs', superpower: 'Produces silk through feet' age: 23},
   // { id: 983, name: 'Red Pumpkin', superpower: 'Creates explosive pumpkins' age: 25},
+  // { id: 984, name: 'Iron Tissue', superpower: 'Shreds anything with the power of paper' age: 38},
 
 ];
 
