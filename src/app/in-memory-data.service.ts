@@ -984,6 +984,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 985, name: 'Capital Crusher', superpower: 'Can crush any symbolic place exactly once' age: 41},
       // { id: 986, name: 'Stealth Runner', superpower: 'Can outrun anyone as long as they remain stealthy' age: 22},
       // { id: 987, name: 'Borrow Debt', superpower: 'Borrows debt to cripple enemies' age: 39},
+      // { id: 988, name: 'Back off', superpower: 'Forces enemies to disengage from combat' age: 29},
 
     ];
     return {heroes};
