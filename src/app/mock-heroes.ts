@@ -982,6 +982,7 @@ export const HEROES: Hero[] = [
   // { id: 991, name: 'Ligament Spray', superpower: 'Gaseous hero that targets ligaments' age: 31},
   // { id: 992, name: 'Lightning Shovel', superpower: 'Digs with lightning' age: 46},
   // { id: 993, name: 'B+ Tube', superpower: 'Positive heroic cylinder' age: 25},
+  // { id: 994, name: 'C Fire', superpower: 'Fire that travels at the speed of light' age: 19},
 
 ];
 
