@@ -987,6 +987,7 @@ export const HEROES: Hero[] = [
   // { id: 996, name: 'Golden Trash', superpower: 'Creates value from trash' age: 47},
   // { id: 997, name: 'Tissue Golem', superpower: 'Hero made out of the strongest tissue paper' age: 82},
   // { id: 998, name: 'Stand With', superpower: 'Can withstand anything as long as they stand with someone' age: 34},
+  // { id: 999, name: 'Pre Millenial', superpower: 'The hero that almost put the capital into the Roman M' age: 999},
 
 ];
 
