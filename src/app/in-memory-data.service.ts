@@ -996,6 +996,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 997, name: 'Tissue Golem', superpower: 'Hero made out of the strongest tissue paper' age: 82},
       // { id: 998, name: 'Stand With', superpower: 'Can withstand anything as long as they stand with someone' age: 34},
       // { id: 999, name: 'Pre Millenial', superpower: 'The hero that almost put the capital into the Roman M' age: 999},
+      // { id: 1000, name: 'Millenial Antihero', superpower: 'The hero that doesn't deserve to be a hero, but still is one' age: 10},
 
     ];
     return {heroes};
