@@ -993,6 +993,7 @@ export const HEROES: Hero[] = [
   // { id: 1002, name: 'Anachronistic Hero', superpower: 'Hero from a lost time' age: 3458},
   // { id: 1003, name: 'Lightning Speech', superpower: 'Talks faster than the speed of light' age: 39},
   // { id: 1004, name: 'Silk Knight', superpower: 'Most well dressed heroic knight' age: 32},
+  // { id: 1005, name: 'Rage Snail', superpower: 'Power of the slowest burning rage' age: 41},
 
 ];
 
