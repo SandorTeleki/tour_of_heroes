@@ -1003,6 +1003,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 1004, name: 'Silk Knight', superpower: 'Most well dressed heroic knight' age: 32},
       // { id: 1005, name: 'Rage Snail', superpower: 'Power of the slowest burning rage' age: 41},
       // { id: 1006, name: 'Banned Hero', superpower: 'Uses only banned powers to fight villains' age: 28},
+      // { id: 1007, name: 'Allowed Villain', superpower: 'Villain with an allowed, positive agenda' age: 19},
 
     ];
     return {heroes};
