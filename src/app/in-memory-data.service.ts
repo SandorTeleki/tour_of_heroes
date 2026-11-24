@@ -1006,6 +1006,7 @@ export class InMemoryDataService implements InMemoryDbService {
       // { id: 1007, name: 'Allowed Villain', superpower: 'Villain with an allowed, positive agenda' age: 19},
       // { id: 1008, name: 'Road Dodger', superpower: 'Can travel through any terrain except on roads' age: 45},
       // { id: 1009, name: 'Crumble Muscles', superpower: 'Weakens enemies muscles' age: 38},
+      // { id: 1010, name: 'Clean Flea', superpower: 'Brings prosperity to the destitute' age: 46},
 
     ];
     return {heroes};
