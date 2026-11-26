@@ -1000,6 +1000,7 @@ export const HEROES: Hero[] = [
   // { id: 1009, name: 'Crumble Muscles', superpower: 'Weakens enemies muscles' age: 38},
   // { id: 1010, name: 'Clean Flea', superpower: 'Brings prosperity to the destitute' age: 46},
   // { id: 1011, name: 'Unsufferable Happiness', superpower: 'Defeats enemies by overloading them with happiness' age: 39},
+  // { id: 1012, name: 'Older Youngling', superpower: 'Turns young enemies old' age: 3},
 
 ];
 
